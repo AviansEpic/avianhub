@@ -1,1 +1,1826 @@
-for n,e in pairs({(function(e,...)local O="This file was obfuscated using PSU Obfuscator 4.0.A | https://www.psu.dev/ & discord.gg/psu";local M=e[((#{155;}+113418662))];local c=e[(322294581)];local C=e[((#{(function(...)return 635,731,...;end)(214,119)}+745851781))];local w=e[(591945340)];local m=e[((726554592-#("https://www.youtube.com/watch?v=Lrj2Hq7xqQ8")))];local b=e[(885883570)];local k=e[(66175242)];local L=e[((#{}+326935302))];local R=e[((699718948-#("i am not wally stop asking me for wally hub support please fuck off")))];local o=e[((#{332;(function(...)return 948,958,279,984,...;end)(240)}+916509090))];local u=e[(42788249)];local f=e[(300226786)];local X=e[(604920569)];local z=e[(579039876)];local W=e[((754442998-#("still waiting for luci to fix the API :|")))];local A=e[(590785617)];local a=e[((91957304-#("I hate this codebase so fucking bad! - notnoobmaster")))];local I=e.r1Irg;local U=e[(972276408)];local j=e[((#{479;672;(function(...)return 311,359,196,818,...;end)()}+332742716))];local x=e["MHW3W62"];local Y=e[((#{83;380;18;684;(function(...)return 93,699;end)()}+393301831))];local q=e["UzdQmj7A"];local T=e[(556772643)];local J=e['zubYSgp'];local i=e[((#{}+735614877))];local s=e['oHF1Pfqi'];local _=e[((#{880;764;309;984;(function(...)return 350;end)()}+830545667))];local p=e["jlRJn"];local Q=e[((924992124-#("psu premium chads winning (only joe biden supporters use the free version)")))];local G=e['BFH06'];local g=e.DGJsiu4DF9;local V=e["oV5vX"];local E=((getfenv)or(function(...)return(_ENV);end));local l,t,n=({}),(""),(E(x));local d=((n["\98\105\116\51\50"])or(n[""..e[c].."\105"..e[a]])or({}));local l=(((d)and(d["\98"..e[k].."\111"..e[u]]))or(function(e,n)local l,x=x,f;while((e>f)and(n>f))do local d,a=e%o,n%o;if d~=a then x=x+l;end;e,n,l=(e-d)/o,(n-a)/o,l*o;end;if e<n then e=n;end;while e>f do local n=e%o;if n>f then x=x+l;end;e,l=(e-n)/o,l*o;end;return(x);end));local r=(o^C);local y=(r-x);local F,D,B;local r=(t[""..e.dLslLAx.."\115\117"..e[c]]);local H=(t[""..e[s]..e[m].."\97\114"]);local h=(t["\98"..e[_]..e[a]..e['RTypYOg']]);local r=(t["\115"..e[w].."\98"]);local P=(n["\112"..e[i].."\105"..e[u].."\115"]);local t=((n[""..e[w].."\110\112"..e[i]..e[s].."\107"])or(n["\116\97\98\108\101"][""..e[w]..e[p]..e[I].."\97"..e[s]..e[R]]));local R=(n[""..e[a]..e[b]..e[p]..e[w]..e[g]..e[c].."\101\114"]);local w=(n["\116"..e[_]..e[I].."\101"]);local v=(n[""..e["RslwHB"]..e["RTypYOg"]..e[a]..e[g]..e['RTypYOg'].."\116\97\116"..e[i].."\98\108\101"]);local w=(n[""..e[g]..e[i]..e[a]..e[m]][""..e[L].."\108\111\111\114"]);local _=(n[""..e.RslwHB.."\101\108\101\99\116"]);local S=((n["\109\97"..e[a].."\104"][""..e["JcSsjX"]..e['A1OWim']..e['RTypYOg'].."\120"..e[I]])or(function(n,e,...)return((n*o)^e);end));local g=(n[""..e[u]..e[i]..e[G].."\115"..e.RTypYOg.."\116"]);local g=(d[""..e[c].."\111"..e[u]])or(function(e,n,...)return(y-B(y-e,y-n));end);D=((d["\114\115\104\105\102"..e[a]])or(function(n,e,...)if(e<f)then return(F(n,-(e)));end;return(w(n%o^C/o^e));end));B=(d[""..e[c].."\97\110"..e['A1OWim']])or(function(n,e,...)return(((n+e)-l(n,e))/o);end);F=((d["\108"..e.RslwHB..e[m]..e[A].."\102\116"])or(function(n,e,...)if(e<f)then return(D(n,-(e)));end;return((n*o^e)%o^C);end));local o=(d[""..e[c].."\110"..e[b]..e[a]])or(function(e,...)return(y-e);end);if((not(n["\98\105"..e[a]..e[M].."\50"]))and(not(n[""..e[c].."\105\116"])))then d["\98"..e[b].."\114"]=g;d["\98\97\110"..e['A1OWim']]=B;d["\98"..e[k].."\111\114"]=l;d[""..e[u]..e['RslwHB']..e[m].."\105\102"..e[a]]=D;d["\98"..e[p]..e[b]..e[a]]=o;d[""..e["JcSsjX"].."\115"..e[m].."\105"..e[L].."\116"]=F;end;local m=(n["\116\97"..e[c].."\108\101"][""..e[s].."\111"..e[p]..e[s]..e[i]..e[a]]);local g=(((n["\116\97"..e[c]..e["JcSsjX"]..e['RTypYOg']][""..e[s]..e[u].."\101"..e[i].."\116"..e.RTypYOg]))or((function(e,...)return({t({},f,e);});end)));local o=(n["\116\97\98"..e.JcSsjX..e["RTypYOg"]][""..e[A]..e[p]..e['RslwHB']..e["RTypYOg"].."\114\116"]);local o=(n[""..e[a]..e[i]..e[c].."\108"..e["RTypYOg"]]["\114"..e["RTypYOg"].."\109"..e[b].."\118\101"]);n[""..e[c]..e[A].."\116"..e[M]..e[X]]=d;local n=((-U+(function()local n,e=f,x;(function(e,n,l)e(l(l,e,n),e(e,e,l),l(n,n and n,n and e))end)(function(l,o,d)if n>Y then return d end n=n+x e=(e-Q)%W if(e%V)>=j then return o(d(l,l,l and d),l(l and d,d,l),o(o,o,o))else return l end return l end,function(d,o,l)if n>J then return l end n=n+x e=(e-q)%T if(e%z)<=((#{636;243;265;(function(...)return 888;end)()}+958))then return o(l(l,d,d and o),d(l,l,l),o(l,l,o))else return d end return o end,function(l,d,o)if n>((451-#("IIiIIiillIiiIIIiiii :troll:")))then return l end n=n+x e=(e+((875-#("why does psu.dev attract so many ddosing retards wtf"))))%((14519-#("PSU|161027525v21222B11273172751L275102731327523d27f22I27f21o26o24Y21J1827F1X27f1r27F23823a26w1... oh wait")))if(e%(1710))>=((962-#("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me a email: mem@mem.rip (Business enquiries only)")))then return o(o(o,l,o),d(o,o and l,d and d),l(l,l,d))else return d end return l end)return e;end)()));local o=(#O+(165));local a,b=({}),({});for e=f,o-x do local n=H(e);a[e]=n;b[e]=n;b[n]=e;end;local u,d=(function(l)local d,e,c=h(l,x,(3));if((d+e+c)~=(248))then n=n+((115-#("guys someone play Among Us with memcorrupt he is so lonely :(")));o=o+(78);end;l=r(l,(5));local n,d,c=(""),(""),({});local e=x;local function f()local n=R(r(l,e,e),(36));e+=x;local l=R(r(l,e,e+n-x),((52-#("Wally likes cock"))));e+=n;return(l);end;n=b[f()];c[x]=n;while(e<#l)do local e=f();if a[e]then d=a[e];else d=n..r(n,x,x);end;a[o]=n..r(d,x,x);c[#c+x],n,o=d,d,o+x;end;return(m(c));end)("PSU|22n26Z26z10101R1j1827721y21B15192142141M1r23P26d27b1021U1Z1i1M21h21d1j1624926C1927721U2191B1t21R2151t1H1622D21Q1e27722A21j1b1A111n1X21I1H101t17191K22W27a27722121328o1L1F1D1622021927729422x21524T26i172772371m1N141v1a1625n24p29a1022E21F161N1R1t21s22L22u27Z1022P1K111r1S1r29A1R25325M29W22F21I1L1H1n21r2181J1p22J21J29L22C21D1t1C21i2191n23I1315277234122A31q26l24029W21T1Y1N1t1V1n2AB1121q22n2AU1022t1N28n1T22N29329426O23N21F25g23S1C2772A9181T21e28621D21711151822Q1a2BR1022W29a141d1J1R1D2b5161125226729l21z21h1J1n1V1T1d25625J1427723B1m1J1s21g22L29L22X1718172BR1221u22Z25X25H22X26724o26V23k25723n29L21v217191l101H1125M25b28m1028e1L1s151A122b921J21329r27V1222D21H2bD2al141C1U2392AT27722S11171N1i24K25n27n22R1B2dm17131h1C22Z1G1M27722R2AC142ab21m2181m161M2Ej21M21L2cb2cD1t2cF22m2E827C21G1J1C1823s2692C52251y1B1H1p1921I21C1H1r1p1425325k1B28u2131u151121n219181f29p1r22Z2cT1021y215111q26o23z2G4102Al2an1Z2111J28M1l1123J2G727722c27Q101B26n1x1722r26324323i21626F21L2ef102F02eq1421A2bC27722b21n2A0162331m1d277233131V1V21A1321a21r21K2201T28O26c25g2DJ2dL1f19121123t2fo29B1i1N2fk1728X28Z1623S26a1f27722821O1d12161D2Es1828I2122aM1c2492711g27722021p1o1C1F112iy21I21p27821027U1626l24a1329b1a1n26i23Y1a2772241z1821g21I29E29G1625925w2c52eP29018121F171d151v1J24m2i927722P1F1q1T181814251266162ez1h2hj2a52652BD22U1a2JP1T21422c28c1022621n1o2KC28j21I1k141g1b2902702B12EZ1c2I61q1128o1B27024F2kU1022v122881N121822T2JV2hH2LI162Ka2jE161o25Z24L2gp29c2F72f921O122hu24v2cs27722v162FL25n24Q2GH23b152gV21H2202HU2hH12122LI21m2Aq2Dw2iw162702452c52H21I2H421P2K129f29H22D21K27n22821R1S2kN2fe1124t25t2nd1022b21K1A2aB2kd1E1j1M21g2iv1L1i192B623921W1d21521k1126x22r26C22T2HM102222111d21721923J1K2is2Lw2Ly162o21Q181h1l2P1131E1925N24o2lV21W2H71g1R1Q26124R24v24r2BD2Ho1d27Z21I22B29w2202131V101L1n21c2171726V24127N2242111E1f1S28o1925b25Y2l721u21c1R2Gc21p2121m181o21121f2cP2371d2Gp2aW1T1R2lZ21721K1i1s21f2292gP2Gr1c2132NG2k32592kT2j92192C91o1s21E22a27n22u2Fc2ce1122m21p2Mz2311C1a1E21M2141529r1l2P31925925S27N2R121321M1j1v2592642Gh22821d2Dw1722s2me1M2lZ14151b112e026824c2Bd2382rv2p423Z26i29427721V132482s727723816171G1A22P2L721Z1Y1h21C1X1M1g1628g152Km1721V21m2M422u1F1r1N1m1q2p428z2502KZ2mN2LY1j1425p24G2L72Ep192ic121G1529P1d1p2EX26Q23l2Su21S267267152272M42312N21D1f1v1u1i29R21I22429W22E14112r429H25n2MD28021c29e1A1x2112t21Q1724W2KJ1022u1K1t1221R1L1521922X2lv21V152fJ2Fl1w21w1127721323H22E2C522b21O1Q1r1a21J2v128921G2gh22q2hU1321I22f2Mz21V21i29A1N1B1q21j1y2Fl2iK25R2511r2772P913171K1p1O21j2dl1L2132161a171h1821A2X421D21f1J2wn2pX23t2mZ2NM2VB171w2W924M25P2L727d171a1y21b1r2ei2x32C0182AL2Vx101a25u25N1J2tx1h2172172No29E1521n21i1D112Wn2i61D24S25X2Su102211921B2T628D21J2ka2QS1z21f2cC2rI2392H01021T21e102sf24926j2Lv22R1c112IW1l24s25u2M42s121c2mj192if2zc2Kv29e2AB24M25L2m42w32Vc28821i21E1F1t21d21u2sU1W21t1X23421i2lv23717162a3192Em27n28v1Q1Y21J2ub1G24W2yp2Su26o25R23h31062SU21823026m24S1227722N1o2662422gP2F01J2Ut1r29D142cM21j2Uw2H12h31B213213181921h22m2Gh21x2171R1O2512CI2h121D2BG27a1726I23x29W22x1q2182mi2Uo2Ba22h2jp102D21Q21W310C2sv2wq182ik1e2C727722321a1s2F42SJ21R2D02Mn182EQ2N21127024e2dJ2181T1N1Y21E1S24q2Vf2361n2LF2ex171R23J2j81022d2qG1n21n2g62g82r32k229H24L25i23F21M1O23y24423M26w25X2St29425s24h21D26M2mS2CU2qh1t2362li2772262171H131O1T1P2122aF1P1e1N26u23K2gh22d1H2r921421s2bd2372eT1m1P22W2u52YW2dW2Dy2e02dP2xw2xY1721D2262gp22421l1k21E28l28N28p1k2652P7277232311v2LC22x2LH2hN213310G28p21d310o2Uc21e22G24p24526R22l1822022Q26y22527n28128321q21q28322N21O2C528V1O2G01e21i2NG2CM24f26H2GH2TN2Tp25N24J2MZ2OM2XM2Xo313u162KI29L22a29o131b2JP22y15312e22v312Z2Gz2pi21n2a424926f2m42t81h313T2Nh16310r2su25c24f1v22j1h2zL2J421j21813131T21T25323m2Lv2202151f1a311O24m25i2BD2341j2mj10250263312e21y191P2282Ro28D2E32NF317A2Ry27n2T82dz2oZ2tF23j317k315V1b1i1O312P312F312821P2X91L22V2Hg314y2R922N22L317J2WW1X162mj26g2452dt2fQ1q2F721321j2Vx2xY22n23627e318L24z2sZ2l821B2Fl21R21U1O2Hn21M14316T1d1L2NQ21O21F151D1s1621R1Z1C2ZO2182192682JU27c2xX1n316w29e2Cm22x1o312E2341s1U2382qO2yw2YY1H1w2Xf2WN2332Fe2Sv318a318C21T23A315J2Jw31AZ2mj21o2iv2RB1n26424M27N2382A1310F310H18317m2J92jb2Jd2jF1d2582tW2VG2kd1v1m22R1E27N21t21J1v2gc21221p1N22p312e2yQ23o2di27722I21h2KB1b1C1M24M310s27723K25C2gI2lv10249311827722e21R1r2Cf1K1d21l313O26u31A02hn21E1o21G27I101I319X21J21J313G2F826723h1W26f21d24s1122X26322t2PN2sV2Dl1J318R1n2Ac21422831872aN21i31a62782RJ1W313L27D151O2aC310h1y2171f2RW2DQ29k31dl29O29Q318D26J2zK27721z313A21m2W931082gh2R12P92DT2352lg1g1g21M21C112BY1h192DM2Co1621W2Fh2gq21227a1524V318o31Dl31661g23S27Y311Z2An21K2192Wy1926t313431aL1b1e1528P1Y22c2dT29c1h1S2ZG102YK1u122b62pT2Iy2682Jo27722T1m1321H22b2eY27o1z2M11c31AQ2w51A21c31g631032eT2Cm2LI1Q2211x2dt31721N161F2dy2Gc111H2LZ29R26j31gN2nv2132P02pS1126823l2bd311t1q2ac24F2zR29x2KQ28Z1R262315u102361J318k1b1225131Ck2S92TI265314C1031bI2dM2702442Mz21U2PW1a317K2p431BN2Xg1Q2a629w22a21N2q32qX21H2Fz1V2GG31aL2S41A31cD31Hg2M12qs2m12312Ei277313e2LF2A22AR1V2gH22B21I2F226o318g2iT27U2wM1q21D2ul2yA1q1B311f2TQ172zB2lv2IU1D31C331IK2LV21z2122FL31b222C21l29w22B2FX2Bg1B215313A16319I2LX1h318R1B1o2602592Y91031gW2yC2Ye2SH2Yh2yJ2yl2Cp2682lU29B2F61H313I22W2IC2cU1I2x91s2FL1e1h21D2mY2772391r31H22Qr2qt2Qv1s22H21f312E317e1O1m31jR31j41T318l22J28b2ya1n2zf2H429p2nq1t24e26y2bg2gI1Z1128i1J1D2Yh1I2GA1n1N21021H10310G1B1n31I32s62GH2Rn2Dw21931GU2YA31gy2hU31H131H31V31H51D21O2222OT2Mu29R1H21m21o31i01P1I1D2O11M22Q31Cq31mu1h1T1S1021v316q31FG31ky18316W28M2q61K21v2nk311z31fZ1L31g12622V410317v2y02C129d1B24T2A72It31C21s1n21h313a23o26b2L7236313i21D2F52MG1N21m21F1p1K21n222313l22R2N12n32Wk1o1n2KE2KE2Ab23I28t31lK2sF315q28q24E31GF1023B314N2x12eT2iX25n2U231D41J21328H1T21M2132PK2Cn161t23831k11031Ks31C31124z22Q21X23b1g25f21K25826W24m2PZ2Ya2DO2eb1u24W31P92z61Y31nH2eY2Q51b21O21v2LV2d21t29D1624s31Ae22f21e191823g315m31PJ21z22626a24424M2sN27731a22f725925z2Ot2aL31ox31G1317x2r531aE2dk2DM23b31D01026823z21B21B313k2HN2w42x9163101310321M21p1l2KE1A24g2G3314I2La2lc31bn2U6319631ma2f72tQ152P125r24t312e23729p22A31OV1023931th2iY2dm1W22D313L27P31hi31HK2W621331bT318D22x31ei102eh2mp31h31p27F1a31mO22c21n101326g31d310311T31f62P42IF27231Lj31PJ1R31PL2f62F831PO2fB2Z22Nq252318V312q312s21o21U29L31LC29p31lF1p230312e22121m21e21A2sd31bY31B01D21R2Fx2fz1421w31L22BS2YI1721k1z2Dn1125c24L2Vx31N62yq2PT31132su1g121j1122a22a2771H1g13122192BK192Qs1322k22K31wf131m2U025P31WR1N1524524531Wr1k1621F21F31wr1l17316w31wr2Oy22O22O31wR1R1923c23C31WR1o1A21v21v31wR1P1b26426431WR1u1c26526531wr1v1d24X24x31wR1s1e23623631wr1t1F25o25o31wr2u725Y25Y31wr2et26t26t31wr31E131wk31WR111J25Q25Q31wr161k25r25r31wr171l1q1q31WR141M1Y31rK2DO2At1N21521531wr1a1o31xH31Wr1b1p24P24P31Wr181Q24b24B31Wr31WM23q23Q31wR1E1S25T25T31Wr310324024031WR2Ec23J23j31Wr1D1v1b2gP314L21e1w1i2Nu314L21f1x21g21G31Wr21c1Y23w23W31wr21D1Z22822831wR21I2JK21D31Wr21j21126V26v31wr21g21225n25N31Wr21H2131O31Ak31Z82RR25G25g31Wr21N2151s31oj31z821K21626x26X31Wr21l21726226231Wr21q21822622631WR21r21921y21y31WR21O21A26626631WR21P21b26026031wR1Y21C318b31wr1Z21D22x22x31wr1W21E26n26n31Wr1X29o2LV314l21221G26W26w31Wf31wh12320L31n621721l314L25I25i31WR31Wt24924931ww1524224231X11625625631x61723g23g31XA1821121131Xe1922M22M31XJ1A23523531Xo1b21t21t31xT1c26s26S31XY1d25U25u31Y31e22722731y81f2ui31YD1G22522531YH1h24i24i31Yl1i24g24g31yO1J22322331YT1K25w25w31yY1L25925931Z31M21A21a31WR151N24h24h31Zd1o24R24r31Zh1P25V25V31ZM1Q24f24f31Zr1r24c24c31zV1S26926932001T25K25K32041U26Y26y32081v23423431wr320E23923931WR320j231231320n1y22d22D320s1Z21X21x320x2102P1321121124d24d321621222Q22Q321B21331C131WR2Rr21Z21z321k21522222231Wr321Q22L22L321u21723s23s321Z21822C22C322421923T23t322921A24A24A322e21b25X310s314L322k252252322N21D31ZB322S21E24l24l322X21F25l25l31wr323221n31ui2Do3237320L2N1323b314L26r26r323g1426C26c323k25d25d323O26e26E323s27h323W24v24v324023B23b324425c31dF31z831xp23R23r324c2n1324g26i3146314l31y4263263324o23h23h324R243243324v21W21W324z21621632531D2mZ314L31YU23l2uF31Z831yZ23D23D325F255255325j1n24Y24Y325o238238325s22J22j325w241241326022122132642I632681R2Wv31z82Ec1a2M4314L320925M25M326k31eX313L320I1x21P2jI31Z8320o1M31HF314L320T23k23K327026Q26Q3273212212327731E4327B22h22h327E21431ND327I1w1W327m21631w431Z8321v25h25h327u247247327y142gH314L322a244244328625S25s322j21C233233328E24E24E328H22f22f328L24u24u328P21G1729L31WG31wI320L318B328x1323I23I3291246246323k26l26L323O31sU323S23Z23Z323w31i4324021S21S32441z1Z324825a25A324C26G26G324g22Y22Y324k23n23N324o24z24z324r24o24O324v248248324Z1C2C5314l31Yp2SU32Ae1K26h26H325b261261325F26m26m32Ap322Q325O237237325s23m23M325w22I22I326023p23P326425F25F326821l21l326C24t24T326G23V23v32Bi21R21R326o1X22R22R326S21E2z831z8320T22U22U327023u23U327321U310x314l32172YC327B26b26b32C825j25J327I25z25z32ce2KP327q1P1p327U229229327y22B22b328231EL328623a23A32CY258258328E253253328h232232328l21821832db26O26O323632Dg2Wb1432dJ25B25b32ho12318B151521721632hw2sU322Y31WT22Z22z32362sh32CG31y431X232I631Wf24223r1432992771O25R32gs31e12Oy32552772191C2152Kp1826d26d1c1d311o322M1031Y431Xk2102103248325132IQ21r31XU325932Iq1C32ir32Es325d2EC31xZ32Id328T1f1e329R101K31T51C1E2L72142151d31b01232eS2uR1A2gP27731Z431XU22G22G323628G32bc32Es1w1X31s032BC27721124m32iG32Gr27721F25W26f27727R1432Ip1032ir21132Cp1422s22S32Iy2sh32J132iB1622n22N32361514162LV21121j31WT32Cp32jd32KW32cP32ct2Ec31WX32Bg32l82Gh32K429D32L92gh32IR21032hY1532Lk1u31x232b832i82BD32Lq31X232lG32ku2R232LB1632ly31x72502503236310f2sU31Z431x732M632iR21232dd1732ly2oY32KG328t2t232mh2tr2kq32lT32is32Iu32ly31Xf24s24S323631s032Mu31Xf320L32Jd21431FZ19326632je32NA31fz325y32Ne32NB1F1f21B21p31XP329x3236311o320b27721421L1L14323E31fZ31wB31Xf326I32N932nb26826832nI31fz2512512LN32nw32o532NZ1y21G15323i26U26u2wN1K15323E32CP32O01932D332o331Fz22E2w11U31xk224224324832Oz324C32p2328T311O32es32NT315m1526P26P32Nz2A01932do32oT1932ly31xK1X1X324824k24k324C21m21m324g32PO32nq1932aC32P832oM21k21K32PD31XF32PG32m732NF32Pi2442ec31xk32Pu329M31gp2L7314l31Xu32qb314l31XZ22w22w32pv32PX1032NU32OM25e25e32Oe21j27W24931FZ2wn31hy323E32HY32Oq32Os32Q532NB32Ov32q91a26J26J324832R9324C32rc32P51932P732Qo21l31HY32Pb32qT1625425432I631Zi32Q332dp32r431fZ32pj1A26A26A32Pn32PP31Z831XU23O23o32PT32S131wg311O32Qn32Nu31HY32q032Q232Pf32Rt32IR32q632rw32QH1331Xp32Hy324C32Sk31Xz22P22p32QM2MZ32SB1632qR32se32O232ru191U31Xu21932Q626K26k2Ln31hy32T232rm24W24W24j24J32Rr32Or32D432T032r632Ox32R832ra32QC32sk31xu23x23x32PV32RH32Sv23y23Y32RM22t22t316M1b21M32Qu22022023023032u232Qu2hY32U11q2f832R02mv32PE32r332sh32R532OW32Qa32S732sl1b32tP1C32qh1g32p62C532nU2F832Rl1932OQ32q432Uj32RV32Q832tl26f32KP32TO32UN31Xu1k1K32s632st32P82F832Sd32Uz32pe32v11c32SI32V432Um324823F23f32so32un32SQ32ss32Rf32sa21L2F832sx32vI32o1326j32t032T232O71922V22V2lN2F832TA32uz1Y2wK311m32oj32u22wK32TC24N24N32Tg32Ui32VL32uk32r732rE314L31Xp32ws1331xu32ws32Ut32Rg32uv32vy1732tW32OE2wK32tz32U131fJ1732U532u732WI1732UB316N2fA18323i2572572wN1P1832uf32R232tI32v21932tk32Vo32v832vS32TT32x132xn32uy32V032sG32wP32V332r723e23E32S0324C24Q24q32VD32vw32sU21L32xN32Vh32y232pH32sj32un32sM2BD32qf32Ur32vt1d24M24m32ve32rI32xN32W032Oq32sz32xS32W532T432nB32w82Ln32xn32wc1j1y21L1832tC32xk32wn32Xr32Y432xT32UL32tm32RB32Tn32Yp32Wy32Uu32P832xn32X432wd32zB32X732XG32Zb32xB32u832xH32Xf2Li2ic32cg31N632E42Kp319g31hM21C32jd21732Bc1a21h21H32IY32K231FZ27731RN2m432k42Si330m31Nh172y42942101h31D631w72yq32M632Cg2941l32Vc330s27731w32sU29d331410210212330X27732lb27726025L31a11y31A31M31a531A71131a931ab1821D22k31kr31kf2wn2532Vf21V2182VX1b29p21A2qz31vl2Mj31VO2FY2g026l31rC2yr28w31yZ2IO24M25c312e232319f23f2C5331027731X72ND32mK1C32pm27732HY2Ec31wB32j132df331D31wI2vx32jo32nA1W2Y431n632jE333732CG333A31N62SK1221B215319d294330532e531H031h032j121121033192101w2uZ330s32jt27721c23e327l2C631oJ14132212Dn22L2o222h2211e31Oi313731hY29d2EU2Gl2kw1q22I22531b021U23231cT2gC1t21i21h1p1A22422k1i181331B02B51D1R2832IZ1n22K21U2fl1721T335a2d421S21u31PR24i2mM2gQ2j426231C631K22yF2KB27f2Zv2m431ve31gq1N31CA28p18319i2R12ap1n27031Um31DM31z131gP2rx2R7319J28Y27f26o2452cf29l22021o10142WP31m722932Vc31J42nX2102162131Q21T23j23I228161w1731HV1e2JP21F24n31qC31O32871331i0191a2VP31kE31hR31kh21T2gh2mo2FL26924D32GX31lK31ND337S1N22222l2WM1G2871n1s1731d82wM22L22I32es22B21333153319332R31NH2LV21921r31wb32Qn31wG33191423K32S532t22su1y2132bD320G2y52M4338F338h32ad32372Su131Y31hh31pX31d821933932N23395339732cP32jE339733392yj1032Jo32ld2nd32jO338w2zg338y338k24g32Pp32c127731fz2oD2dT332p31uJ1y332V2H43395339Z320B1C21p321032Hy32dD31Zi2nD32j1339L32Rh32ir333b112kP32nm314L32EW2u8333v27731Oi31H032M621321233191I31WB2Yq16319D339R1021A21o2Nd32MR339L338i338z2943391339733A333962n13398339C33BD339B33Bc2n1339e333431W7333q333s1X32m310"),(#O-((197-#("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me a email: mem@mem.rip (Business enquiries only)"))));local function x(e,n,...)if(e==808875213)then return((l(l(l(l(n,528828),10565),807978),737092))-705188);elseif(e==829788095)then return(l(l(((l(n,107056))-232894)-308925,187785),243274));elseif(e==315592017)then return(((((l(n,658103))-2760)-477017)-983151)-991111);elseif(e==194869769)then return(l(l(l(l(n,615717),553601),308483),809514));elseif(e==386694580)then return(l((l(l(l(n,904329),498323),203690))-474432,983818));elseif(e==951625789)then return(((l(l(n,854279),790952))-138058)-29420);elseif(e==131349796)then return(l(((l(l(n,894572),199840))-324792)-943717,572589));elseif(e==570895560)then return(l(l(l(l(l(n,344412),801778),355369),212944),258349));elseif(e==503604323)then return((((n)-533934)-69516)-886765);elseif(e==459974332)then return(l((l(n,343138))-892772,277848));elseif(e==940674472)then return(l((((n)-507340)-619205)-695004,49430));elseif(e==887329876)then return((l(((n)-237577)-543242,293322))-64038);elseif(e==897502989)then return(l(l((n)-904169,467521),88738));else end;end;local p=e[((#{379;}+531148599))];local c=e.IFxG0;local o=e['MHW3W62'];local y=e[(349470421)];local a=e[(300226786)];local f=e[((#{614;267;421;160;(function(...)return 450,601;end)()}+30094768))];local x=e[((39808327-#("Bunu yazan tosun... - federal")))];local s=e[(916509096)];local m=e[(527140240)];local function i(l,e,n)if(n)then local e=(l/s^(e-o))%s^((n-o)-(e-o)+o);return(e-(e%o));else local e=s^(e-o);return(((l%(e+e)>=e)and(o))or(a));end;end;local function a()local c,a,o,e=h(u,d,d+c);c=l(c,n);n=c%x;a=l(a,n);n=a%x;o=l(o,n);n=o%x;e=l(e,n);n=e%x;d+=m;return((e*f)+(o*y)+(a*x)+c);end;local function c()local e=l(h(u,d,d),n);n=e%x;d=(d+o);return(e);end;local function f()local o,e=h(u,d,d+s);o=l(o,n);n=o%x;e=l(e,n);n=e%x;d=d+s;return((e*x)+o);end;local F=""..e[p];local function C(...)return({...}),_(F,...);end;local function U(...)local Y=e[(669429817)];local v=e[(352946994)];local k=e[((386128159-#("If you see this, congrats you're gay")))];local B=e[((#{108;364;538;}+349456547))];local I=e[((527140256-#("The Voxel is sus")))];local D=e[((#{}+715456030))];local A=e[(83542582)];local H=e["g1Br2zRd"];local _=e[((263049749-#("i am not wally stop asking me for wally hub support please fuck off")))];local o=e[(300226786)];local y=e[((#{691;}+745851784))];local p=e.aFnUDq63V;local L=e[(817243963)];local R=e["cJN9O"];local g=e.IFxG0;local x=e.MHW3W62;local m=e[((916509174-#("luraph is now down until further notice for an emergency major security update")))];local O=e[(858159924)];local F=e[(39808298)];local M=e['firywrUGsH'];local t=e[((#{(function(...)return 359;end)()}+899396076))];local j=e["UzdQmj7A"];local function C(...)local e=({});local s=({});local E=({});local U=c(n);for f=o,a(n)-x,x do local s=c(n);if(s%t==m)then local n=c(n);e[f]=(n~=o);elseif(s%t==p)then while(true)do local a=a(n);if(a==o)then e[f]=('');break;end;if(a>R)then local o,c=(''),(r(u,d,d+a-x));d=d+a;for e=x,#c,x do local e=l(h(r(c,e,e)),n);n=e%F;o=o..b[e];end;e[f]=o;else local x,o=(''),({h(u,d,d+a-x)});d=d+a;for o,e in P(o)do local e=l(e,n);n=e%F;x=x..b[e];end;e[f]=x;end;break;end;elseif(s%t==g)then while(true)do local d=a(n);local l=a(n);local a=x;local d=(i(l,x,M)*(m^y))+d;local n=i(l,t,_);local l=((-x)^i(l,y));if(n==o)then if(d==o)then e[f]=w(l*o);break;else n=x;a=o;end;elseif(n==L)then e[f]=(d==o)and(l*(x/o))or(l*(o/o));break;end;local n=S(l,n-j)*(a+(d/(m^k)));e[f]=n%x==o and w(n)or n break;end;elseif(s%t==O)then while(true)do local n=a(n);e[f]=r(u,d,d+n-x);d=d+n;break;end;else e[f]=nil end;end;local l=a(n);for e=o,l-x,x do s[e]=({});end;for w=o,l-x,x do local l=c(n);if(l~=o)then l=l-x;local r,h,d,t,y,b=o,o,o,o,o,o;local u=i(l,x,g);if(u==o)then t=(f(n));d=(f(n));r=(f(n));h=(c(n));elseif(u==p)then elseif(u==m)then t=(f(n));d=s[(a(n))];h=(c(n));elseif(u==A)then t=(f(n));d=(a(n));r=(f(n));h=(c(n));b=({});for e=x,r,x do b[e]=({[o]=c(n),[x]=f(n)});end;elseif(u==x)then t=(f(n));d=(a(n));h=(c(n));elseif(u==g)then t=(f(n));d=s[(a(n))];r=(f(n));h=(c(n));end;if(i(l,I,I)==x)then t=e[t];end;if(i(l,p,p)==x)then r=e[r];end;if(i(l,A,A)==x)then d=e[d];end;if(i(l,D,D)==x)then y=s[a(n)];else y=s[w+x];end;if(i(l,B,B)==x)then b=({});for e=x,c(),x do b[e]=a();end;end;local e=s[w];e['cd6C0']=d;e['VEL']=y;e[Y]=t;e[-H]=b;e["QgPnEmU"]=h;e["jyGn"]=r;end;end;local l=f(n);for e=o,a(n)-x,x do E[e]=C();end;return({["Hdi"]=E;["mQau"]=l;[v]=o;['M684Zvart']=s;['Nktf6caz']=e;['Vc3a0rlL']=U;});end;return(C(...));end;local function b(e,s,c,...)local x=e['M684Zvart'];local a=e["Vc3a0rlL"];local n=e['Nktf6caz'];local l=0;local I=c['\73\110\115\116\97\110\99\101'];local f=e["mQau"];local y=e["Hdi"];return(function(...)local o="VEL";local e=(true);local n={};local p=({});local r=-(1);local u={};local i=x[l];local m={...};local e=(575559342);local h=(_(F,...)-1);local x='cd6C0';local w=-54807;local A="QgPnEmU";local l=674771;local d='jyGn';local e=I and 1 or 0;for e=0,h,e do if(e>=a)then u[e-a]=m[e+1];else n[e]=m[e+1];end;end;local h=h-a+1;repeat local e=i;local a=e[A];i=e[o];if(a<=25)then if(a<=12)then if(a<=5)then if(a<=2)then if(a<=0)then local l=e[l];r=l+h-1;for e=0,h do n[l+e]=u[e];end;for e=r+1,f do n[e]=nil;end;elseif(a>1)then e=e[o];local x=e[l];r=x+h-1;for e=0,h do n[x+e]=u[e];end;for e=r+1,f do n[e]=nil;end;e=e[o];local l=e[l];do return t(n,l,r);end;e=e[o];e=e[o];elseif(a<2)then n[e[l]]=s[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];local l=e[l];n[l](t(n,l+1,e[x]));for e=l+1,f do n[e]=nil;end;e=e[o];e=e[o];end;elseif(a<=3)then n[e[l]]=s[e[x]];elseif(a==4)then local e=e[l];n[e]=n[e](n[e+1]);for e=e+1,f do n[e]=nil;end;elseif(a<=5)then n[e[l]]=g(e[x]);e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local c;local f;local t;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=0,30 do if d(9481,2993+o,466)>233 then if d(9640,8620+o,2288)>=1144 then if d(3448,9122+o,1292)<=646 then else end else if d(6365,9830+o,1706)<853 then n[t]=f;else end end else c=l;if d(6134,8722+o,1146)<=573 then if d(1132,1914+o,2878)<=1439 then else end else if d(4554,8765+o,1554)>777 then f=e[x];else end t=e[c];end end end local f;local t;local c;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and-n or n)or a*n)%l return a end for o=2,26 do if d(9002,7905+o,2858)>=1429 then if d(6219,8738+o,3348)>1674 then if d(7090,3453+o,2964)>1482 then else n[e[l]]=#n[e[x]];end else if d(6195,8622+o,1632)<816 then else f=l;end end t=e[x];else c=e[f];if d(6950,2104+o,2558)<1279 then if d(8798,8086+o,316)<=158 then else n[c]=t;end else if d(4854,2741+o,2438)<1219 then else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local t;local f;local c;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and n or-n)or a*n)%l return a end for o=0,32 do if d(1961,3524+o,1286)<643 then if d(6615,7828+o,1448)>724 then t=l;if d(8031,5787+o,1004)<=502 then else f=e[x];end else if d(4481,3634+o,3918)<1959 then else end end else c=e[t];if d(5312,1577+o,416)<=208 then if d(1862,1456+o,3508)<1754 then else end else if d(1743,2667+o,1372)>=686 then n[e[l]]=#n[e[x]];else n[c]=f;end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];end;elseif(a<=8)then if(a<=6)then n[e[l]]();elseif(a==7)then n[e[l]]=e[x];e=e[o];local d=(_120);(function()n[e[l]]=e[x];e=e[o];end){};n[e[l]]=e[x];e=e[o];local c;local t;local f;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=2,32 do if d(4793,3672+o,3878)<1939 then if d(8879,5145+o,3156)<1578 then if d(2546,9081+o,3600)<1800 then c=l;else end else if d(5727,4261+o,492)>=246 then else n[f]=t;end end t=e[x];else if d(5583,8082+o,3124)>1562 then if d(3731,7307+o,318)<159 then f=e[c];else end else if d(8144,6907+o,244)<122 then else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local c;local t;local f;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and n or-n)or a*n)%l return a end for o=2,32 do if d(7218,2969+o,3954)<=1977 then if d(7367,3800+o,2646)>1323 then c=l;if d(5774,7171+o,2034)<1017 then t=e[x];else end else if d(4977,3770+o,2514)>1257 then f=e[c];else end end else if d(4907,7134+o,2892)<=1446 then n[f]=t;if d(6295,8886+o,1440)>=720 then else end else if d(3475,6730+o,3212)>=1606 then else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local d=(_2);(function()n[e[l]]=e[x];e=e[o];end){};n[e[l]]=e[x];e=e[o];local d=(_194);(function()n[e[l]]=e[x];e=e[o];end){};n[e[l]]=e[x];e=e[o];local d=(_124);(function()n[e[l]]=e[x];e=e[o];end){};n[e[l]]=e[x];e=e[o];e=e[o];elseif(a<=8)then n[e[l]]=n[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=#n[e[x]];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]]=n[e[x]][n[e[d]]];e=e[o];local a=e[l];n[a]=n[a](n[a+1]);for e=a+1,f do n[e]=nil;end;e=e[o];local s;local r;local i;local c=0;local function a(e,n,l)e=(c+e)%3 c=((e~=0)and c+((1==e)and n or-n)or c*n)%l return c end for o=0,26 do if a(6789,5898+o,3562)>=1781 then if a(8211,7648+o,308)>=154 then if a(8894,2479+o,2532)<=1266 then else end else if a(1023,9646+o,3194)<=1597 then else end end else s=l;if a(8576,1962+o,856)>=428 then if a(5344,5444+o,582)<=291 then r=e[x];else end else if a(5184,1462+o,1144)>=572 then else i=e[s];end n[i]=r;end end end local c=e[x];local a=n[c];for e=c+1,e[d]do a=a..n[e];end;n[e[l]]=a;e=e[o];local l=e[l];n[l](t(n,l+1,e[x]));for e=l+1,f do n[e]=nil;end;e=e[o];e=e[o];end;elseif(a<=10)then if(a>9)then n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=c[e[x]];e=e[o];local c=e[l];local a=n[e[x]];n[c+1]=a;n[c]=a[e[d]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=(e[x]~=0);e=e[o];local d=e[l];local a,x=C(n[d](t(n,d+1,e[x])));r=x+d-1;local x=0;for e=d,r do x=x+1;n[e]=a[x];end;e=e[o];local x=e[l];n[x]=n[x](t(n,x+1,r));for e=x+1,r do n[e]=nil;end;e=e[o];n[e[l]]();e=e[o];e=e[o];elseif(a<10)then n[e[l]]=g(e[x]);end;elseif(a>11)then n[e[l]]=n[e[x]][e[d]];elseif(a<12)then n[e[l]][e[x]]=e[d];end;elseif(a<=18)then if(a<=15)then if(a<=13)then n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]];e=e[o];local x=e[l];n[x]=n[x](n[x+1]);for e=x+1,f do n[e]=nil;end;e=e[o];n[e[l]]();e=e[o];e=e[o];elseif(a==14)then local f;local r;local t;local c=0;local function a(n,e,l)e=(c+e)%3 c=((e~=0)and c+((e<2)and n or-n)or c*n)%l return c end for o=1,28 do if a(1341,1677+o,1518)<=759 then if a(8649,9691+o,1136)>=568 then if a(1978,3576+o,3922)<1961 then else t=e[f];end else if a(6327,4735+o,3738)<=1869 then else end end n[t]=r;else if a(8768,4685+o,1284)>642 then if a(2485,2024+o,2924)<1462 then else end else if a(8448,3771+o,858)>=429 then else f=l;end end r=e[x];end end n[e[l]]=e[x];e=e[o];local f;local t;local r;local c=0;local function a(n,e,l)e=(c+e)%3 c=((e~=0)and c+((e<2)and-n or n)or c*n)%l return c end for o=1,28 do if a(9646,2814+o,2616)<1308 then if a(4057,5406+o,704)>352 then if a(7185,5015+o,2554)>1277 then n[r]=t;else f=l;end else if a(4851,7474+o,3742)>=1871 then n[e[l]]=n[e[x]]+e[d];else t=e[x];end r=e[f];end else if a(8777,8387+o,2302)<=1151 then if a(8006,3932+o,670)<=335 then n[e[l]]=#n[e[x]];else i=e[x];end local o=e[x];local x=n[o];for e=o+1,e[d]do x=x..n[e];end;n[e[l]]=x;else if a(5283,4850+o,3892)<=1946 then else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local r;local f;local t;local c=0;local function a(n,e,l)e=(c+e)%3 c=((e~=0)and c+((e<2)and n or-n)or c*n)%l return c end for o=0,29 do if a(6391,8165+o,3188)>=1594 then if a(1047,3452+o,1724)>=862 then if a(9119,6101+o,650)>325 then else end else if a(4570,4270+o,1650)<825 then else r=l;end end f=e[x];else t=e[r];if a(5363,9275+o,3476)>=1738 then if a(3919,9691+o,248)<124 then n[t]=f;else end else if a(7101,4707+o,866)>=433 then else end end end end local f;local t;local r;local c=0;local function a(n,e,l)e=(c+e)%3 c=((e~=0)and c+((1==e)and-n or n)or c*n)%l return c end for o=0,25 do if a(8713,9073+o,1368)>=684 then if a(7789,1942+o,2502)>=1251 then if a(9130,3580+o,3078)>=1539 then t=e[x];else f=l;end else if a(7900,1114+o,1940)<970 then r=e[f];else end end else if a(3017,9284+o,3568)<1784 then n[r]=t;if a(3267,1022+o,3836)<=1918 then else end else if a(7680,8927+o,1256)>628 then local o=e[x];local x=n[o];for e=o+1,e[d]do x=x..n[e];end;n[e[l]]=x;else n[e[l]]=n[e[x]];end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local t;local f;local r;local c=0;local function a(n,e,l)e=(c+e)%3 c=((e~=0)and c+((e<2)and-n or n)or c*n)%l return c end for o=1,31 do if a(7867,3884+o,3726)>1863 then r=e[t];if a(5203,3269+o,882)>441 then if a(2914,8772+o,854)<=427 then else n[e[l]]=e[x]-e[d];end else if a(7683,4747+o,1122)<561 then else n[r]=f;end end else if a(7487,8425+o,2708)<1354 then if a(6739,8252+o,2264)>=1132 then i=e[x];else end else t=l;if a(7241,6165+o,3838)<1919 then f=e[x];else end end end end e=e[o];elseif(a<=15)then local a=(_189);(function()n[e[l]]=e[x];e=e[o];end){};n[e[l]]=e[x];e=e[o];local s;local t;local r;local f=0;local function a(e,n,l)e=(f+e)%3 f=((e~=0)and f+((e<2)and-n or n)or f*n)%l return f end for o=1,28 do if a(4223,2867+o,2260)<1130 then if a(2786,6930+o,3374)<1687 then if a(5048,2835+o,1532)<=766 then s=l;else n[r]=t;end else if a(9082,3585+o,3292)<=1646 then n[e[l]]=c[e[x]];else r=e[s];end end t=e[x];else if a(4508,9480+o,886)>443 then if a(3396,4168+o,3588)<1794 then else end else if a(3744,9891+o,3050)<1525 then else i=e[x];end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=(_152);(function()n[e[l]]=e[x];e=e[o];end){};n[e[l]]=e[x];e=e[o];local r;local t;local f;local c=0;local function a(n,e,l)e=(c+e)%3 c=((e~=0)and c+((1==e)and-n or n)or c*n)%l return c end for o=1,30 do if a(6764,9554+o,3612)>1806 then if a(3538,1105+o,2898)<=1449 then if a(3064,9119+o,3528)>=1764 then n[e[l]]=e[x]-e[d];else end else if a(9002,4209+o,1520)<=760 then else end end else r=l;if a(4685,5585+o,2640)>1320 then if a(7380,8166+o,1824)<912 then else if(e[l]~=e[d])then i=i+1;else i=e[x];end;end else if a(1874,8127+o,3238)<1619 then t=e[x];else n[f]=t;end f=e[r];end end end n[e[l]]=e[x];e=e[o];local d=(_161);(function()n[e[l]]=e[x];e=e[o];end){};local t;local f;local c;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=0,27 do if d(2365,6225+o,1480)<=740 then if d(1082,7211+o,2480)>1240 then if d(9163,3170+o,1950)>975 then else f=e[x];end else if d(6316,7372+o,3622)<1811 then else t=l;end end else if d(3744,3754+o,2830)>=1415 then if d(5494,2169+o,820)<=410 then else end else c=e[t];if d(5784,1049+o,1032)>=516 then else n[c]=f;end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];end;elseif(a<=16)then n[e[l]]=b(y[e[x]],(nil),c);elseif(a>17)then local e=e[l];n[e]=n[e](t(n,e+1,r));for e=e+1,r do n[e]=nil;end;elseif(a<18)then local a;local c;local f;local o=0;local function d(e,n,l)e=(o+e)%3 o=((e~=0)and o+((1==e)and n or-n)or o*n)%l return o end for o=2,28 do if d(3924,4549+o,3416)>=1708 then f=e[a];if d(4792,4416+o,2488)>=1244 then if d(9296,7585+o,3044)>=1522 then else end else n[f]=c;if d(9031,1619+o,3862)>1931 then else end end else if d(6950,1089+o,2232)>1116 then if d(2714,1488+o,1364)<=682 then a=l;else end c=e[x];else if d(6926,5715+o,3332)<=1666 then else end end end end end;elseif(a<=21)then if(a<=19)then n[e[l]][e[x]]=n[e[d]];elseif(a==20)then n[e[l]]=#n[e[x]];elseif(a<=21)then end;elseif(a<=23)then if(a>22)then local r;local s;local h;local i=0;local function a(n,e,l)e=(i+e)%3 i=((e~=0)and i+((1==e)and-n or n)or i*n)%l return i end for o=1,28 do if a(1189,4579+o,3002)<1501 then r=l;if a(4239,8758+o,2006)<=1003 then if a(8051,5926+o,318)>159 then else n[h]=s;end else s=e[x];if a(8166,8657+o,1076)>538 then else h=e[r];end end else if a(7895,6720+o,352)>=176 then if a(8608,8839+o,3436)>=1718 then else end else if a(3886,7332+o,1820)<=910 then else end end end end n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local r;local s;local h;local i=0;local function a(n,e,l)e=(i+e)%3 i=((e~=0)and i+((e<2)and n or-n)or i*n)%l return i end for o=1,26 do if a(3377,1865+o,2590)<1295 then if a(8966,5064+o,2056)>=1028 then h=e[r];if a(4442,4457+o,1112)<=556 then n[h]=s;else end else if a(2583,9935+o,2828)>=1414 then local o=e[x];local x=n[o];for e=o+1,e[d]do x=x..n[e];end;n[e[l]]=x;else r=l;end end s=e[x];else if a(9125,1404+o,782)<391 then if a(7580,5358+o,1246)<=623 then else end else if a(1207,6846+o,1456)>=728 then else end end end end local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];local f;local t;local r;local i;local s;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and-n or n)or a*n)%l return a end for o=1,29 do if d(4463,2667+o,2706)>1353 then r=e[x];if d(8937,2086+o,554)<=277 then if d(6496,5365+o,2192)<1096 then else end else if d(1397,1181+o,2902)<1451 then else i=f[r];end end else f=c;if d(3518,8529+o,214)>107 then if d(3779,3461+o,3518)<=1759 then n[s]=i;else t=l;end else if d(8909,5487+o,752)<376 then n[e[l]]=c[e[x]];else s=e[t];end end end end e=e[o];elseif(a<23)then local e=e[l];do return t(n,e,r);end;end;elseif(a==24)then local l=e[l];n[l]=0+(n[l]);n[l+1]=0+(n[l+1]);n[l+2]=0+(n[l+2]);local o=n[l];local d=n[l+2];if(d>0)then if(o>n[l+1])then i=e[x];else n[l+3]=o;end;elseif(o<n[l+1])then i=e[x];else n[l+3]=o;end;elseif(a<=25)then n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];local a=(_31);(function()n[e[l]]=n[e[x]][e[d]];e=e[o];end){};n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];local a=(_121);(function()n[e[l]]=e[x];e=e[o];end){};local r;local s;local h;local i=0;local function a(e,n,l)e=(i+e)%3 i=((e~=0)and i+((e<2)and n or-n)or i*n)%l return i end for o=2,32 do if a(6090,2858+o,1636)>818 then h=e[r];if a(6958,2463+o,3644)<=1822 then if a(5490,9736+o,3582)>1791 then else end else if a(1054,9364+o,1128)<=564 then else n[h]=s;end end else r=l;if a(2630,3154+o,604)<302 then if a(6380,1962+o,3984)<=1992 then else end else if a(7647,6647+o,3766)>=1883 then else s=e[x];end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];local a=(_194);(function()n[e[l]]=c[e[x]];e=e[o];end){};n[e[l]]=n[e[x]][e[d]];e=e[o];local s;local r;local h;local i=0;local function a(e,n,l)e=(i+e)%3 i=((e~=0)and i+((e<2)and n or-n)or i*n)%l return i end for o=2,29 do if a(3380,4889+o,2718)>1359 then n[h]=r;if a(8808,9041+o,1878)<=939 then if a(7886,1200+o,1410)<705 then else end else if a(8866,5508+o,1924)<962 then else end end else s=l;if a(9756,2268+o,916)<=458 then if a(2179,9516+o,750)<375 then else r=e[x];end h=e[s];else if a(7344,9437+o,2124)<1062 then else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];local a=(_195);(function()n[e[l]]=n[e[x]][e[d]];e=e[o];end){};local a=(_152);(function()n[e[l]]=n[e[x]][e[d]];e=e[o];end){};n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];e=e[o];end;elseif(a<=38)then if(a<=31)then if(a<=28)then if(a<=26)then n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];local s;local u;local h;local r=0;local function a(e,n,l)e=(r+e)%3 r=((e~=0)and r+((1==e)and n or-n)or r*n)%l return r end for o=1,25 do if a(8314,4993+o,1534)>=767 then if a(3578,5580+o,2968)<=1484 then if a(7247,4043+o,3540)>=1770 then h=e[s];else end else if a(2657,9459+o,582)>=291 then else end end n[h]=u;else if a(1752,8270+o,742)>=371 then if a(2063,6938+o,2830)>=1415 then else n[e[l]]=e[x]-e[d];end else s=l;if a(8740,2986+o,438)>219 then u=e[x];else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];local r;local h;local s;local c=0;local function a(n,e,l)e=(c+e)%3 c=((e~=0)and c+((e<2)and-n or n)or c*n)%l return c end for o=2,34 do if a(5842,4782+o,2290)<=1145 then s=e[r];if a(6805,9484+o,3032)>=1516 then if a(9767,5201+o,472)<=236 then else end else if a(3006,6990+o,366)>=183 then else n[s]=h;end end else if a(1662,2521+o,286)<=143 then if a(2855,6018+o,2862)>1431 then r=l;else h=e[x];end else if a(2423,6286+o,2640)<=1320 then else end end end end local r;local s;local h;local c=0;local function a(e,n,l)e=(c+e)%3 c=((e~=0)and c+((e<2)and n or-n)or c*n)%l return c end for o=2,33 do if a(9215,7050+o,3050)<=1525 then if a(2590,8504+o,782)>391 then if a(8239,2202+o,3830)>1915 then else if(e[l]~=e[d])then i=i+1;else i=e[x];end;end else if a(1065,1327+o,2008)<=1004 then else n[h]=s;end end else r=l;if a(2218,5540+o,840)<=420 then if a(4044,7104+o,3806)>1903 then else end else s=e[x];if a(5312,1251+o,3886)>1943 then h=e[r];else end end end end n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];e=e[o];elseif(a==27)then n[e[l]]=s[e[x]];e=e[o];local a=(_76);(function()n[e[l]]=n[e[x]][e[d]];e=e[o];end){};n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];local d=e[l];n[d](t(n,d+1,e[x]));for e=d+1,f do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local x=(_30);(function()local l=e[l];n[l]=n[l](n[l+1]);for e=l+1,f do n[e]=nil;end;e=e[o];end){};e=e[o];elseif(a<=28)then local a;local i;local t;local c;local r;local s;local o=0;local f=0;local function d(e,n,l)e=(o+e)%3 o=((e~=0)and o+((e<2)and n or-n)or o*n)%l return o end for o=0,28 do if d(1919,6652+o,234)<=117 then if d(2598,7133+o,2046)>1023 then if d(4465,7419+o,3486)>1743 then r=c[a[i]];else end s=a[t];else if d(9504,6253+o,1062)<=531 then else end end else if d(2374,6799+o,286)>=143 then a=e;if d(9516,8256+o,3432)>1716 then t=l;else i=x;end else if d(9720,6433+o,1500)<750 then if f~=1 then n[s]=r;f=1;end;else c=n;end end end end end;elseif(a<=29)then n[e[l]]=(e[x]~=0);elseif(a==30)then e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];local i;local r;local h;local c=0;local function a(e,n,l)e=(c+e)%3 c=((e~=0)and c+((e<2)and-n or n)or c*n)%l return c end for o=1,26 do if a(9744,9303+o,2072)<1036 then if a(6278,2287+o,2514)<1257 then if a(9773,4556+o,3104)<=1552 then else end else i=l;if a(4318,3780+o,3212)>=1606 then else r=e[x];end end else if a(1316,2525+o,3646)>=1823 then if a(8031,8913+o,1632)<=816 then else end else if a(5336,3990+o,1792)<896 then else h=e[i];end n[h]=r;end end end n[e[l]]=s[e[x]];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];local a=e[l];local l=n[e[x]];n[a+1]=l;n[a]=l[e[d]];e=e[o];e=e[o];elseif(a<=31)then n[e[l]]=n[e[x]][n[e[d]]];end;elseif(a<=34)then if(a<=32)then local o=e[x];local x=n[o];for e=o+1,e[d]do x=x..n[e];end;n[e[l]]=x;elseif(a>33)then if(not(n[e[l]]))then i=e[x];end;elseif(a<34)then n[e[l]]=g(256);end;elseif(a<=36)then if(a==35)then local o=y[e[x]];local a=e[w];local x={};local f=v({},{__index=function(n,e)local e=x[e];return(e[1][e[2]]);end,__newindex=function(l,e,n)local e=x[e];e[1][e[2]]=n;end;});for l=1,e[d],1 do local e=a[l];if(e[0]==0)then x[l-1]=({n,e[1]});else x[l-1]=({s,e[1]});end;p[#p+1]=x;end;n[e[l]]=b(o,f,c);elseif(a<=36)then do return;end;end;elseif(a==37)then local l=e[l];n[l](t(n,l+1,e[x]));for e=l+1,f do n[e]=nil;end;elseif(a<=38)then n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];local r;local s;local h;local i=0;local function a(e,n,l)e=(i+e)%3 i=((e~=0)and i+((1==e)and n or-n)or i*n)%l return i end for o=1,28 do if a(4029,5759+o,2174)<=1087 then if a(3814,4193+o,3276)>=1638 then h=e[r];if a(1520,1439+o,460)<230 then n[h]=s;else end else r=l;if a(4612,6584+o,2210)<=1105 then s=e[x];else end end else if a(7136,7025+o,254)>127 then if a(4681,3890+o,3712)<=1856 then else end else if a(9115,1865+o,3582)<1791 then else end end end end local s;local r;local h;local i=0;local function a(n,e,l)e=(i+e)%3 i=((e~=0)and i+((e<2)and n or-n)or i*n)%l return i end for o=2,33 do if a(8764,4297+o,3794)<=1897 then s=l;if a(6464,4802+o,2830)>1415 then if a(6941,1351+o,1986)<993 then else end else if a(3193,3204+o,1210)<=605 then r=e[x];else end h=e[s];end else if a(4577,3046+o,1970)<985 then if a(6093,2480+o,808)>404 then else end else n[h]=r;if a(4024,5875+o,2190)>=1095 then else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];e=e[o];end;elseif(a<=45)then if(a<=41)then if(a<=39)then local l=e[l];local x,e=C(n[l](t(n,l+1,e[x])));r=e+l-1;local e=0;for l=l,r do e=e+1;n[l]=x[e];end;elseif(a>40)then if(n[e[l]]~=e[d])then i=e[x];end;elseif(a<41)then local l=e[l];n[l]=n[l](t(n,l+1,e[x]));for e=l+1,f do n[e]=nil;end;end;elseif(a<=43)then if(a==42)then n[e[l]]=n[e[x]];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](n[a+1]);for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](n[a+1]);for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](n[a+1]);for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](n[a+1]);for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](n[a+1]);for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];local a=e[l];local c=n[e[x]];n[a+1]=c;n[a]=c[e[d]];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];e=e[o];elseif(a<=43)then local l=e[l];local o=e[x];local x=50*(e[d]-1);local d=n[l];local e=0;for o=l+1,o do d[x+e+1]=n[l+(o-l)];e=e+1;end;end;elseif(a==44)then n[e[l]]=e[x];e=e[o];local d=(_133);(function()n[e[l]]=e[x];e=e[o];end){};n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local t;local f;local c;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=0,30 do if d(6336,2222+o,1788)>894 then if d(2267,9401+o,992)>=496 then n[c]=f;if d(2880,9028+o,1520)>=760 then else end else if d(8006,5289+o,1470)>=735 then else end end else t=l;if d(6251,5009+o,3772)>=1886 then f=e[x];if d(9900,3263+o,3958)>=1979 then c=e[t];else end else if d(3127,4465+o,1674)>=837 then else end end end end local d=(_132);(function()n[e[l]]=e[x];e=e[o];end){};n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local f;local t;local c;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=0,27 do if d(5447,9523+o,2146)>1073 then f=l;if d(5272,4396+o,1414)>=707 then if d(2582,4042+o,1934)<=967 then t=e[x];else c=e[f];end else if d(5699,8642+o,2126)>1063 then else end end else if d(2056,8853+o,1238)>619 then if d(7719,2053+o,3500)>1750 then else end else if d(1695,8306+o,1876)>938 then n[c]=t;else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local d=(_106);(function()n[e[l]]=e[x];e=e[o];end){};n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local d=(_66);(function()n[e[l]]=e[x];e=e[o];end){};local d=(_183);(function()n[e[l]]=e[x];e=e[o];end){};n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local d=(_122);(function()n[e[l]]=e[x];e=e[o];end){};local c;local t;local f;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and-n or n)or a*n)%l return a end for o=1,32 do if d(7245,5287+o,1324)>=662 then if d(7247,6212+o,702)>351 then if d(6895,3505+o,1412)>706 then f=e[c];else n[e[l]]=n[e[x]];end n[f]=t;else if d(6269,7268+o,1484)>=742 then else end end else if d(1969,5280+o,1010)>=505 then if d(1104,5543+o,1772)>886 then c=l;else end t=e[x];else if d(2724,4204+o,3864)<1932 then else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local d=(_131);(function()n[e[l]]=e[x];e=e[o];end){};local d=(_2);(function()n[e[l]]=e[x];e=e[o];end){};local c;local f;local t;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((e<2)and-n or n)or a*n)%l return a end for o=1,28 do if d(3776,4496+o,1684)<=842 then n[t]=f;if d(3454,6408+o,1376)<=688 then if d(4872,9212+o,532)>266 then else end else if d(8031,3142+o,3826)>1913 then else end end else c=l;if d(4755,7604+o,2642)<=1321 then if d(6529,5304+o,3288)>1644 then else end else if d(5671,1071+o,2388)>1194 then else f=e[x];end t=e[c];end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];elseif(a<=45)then local s;local t;local r;local f;local a;local o=0;local function d(n,e,l)e=(o+e)%3 o=((e~=0)and o+((e<2)and-n or n)or o*n)%l return o end for o=0,29 do if d(3906,1855+o,1028)>514 then r=e[x];if d(2124,6236+o,2376)>=1188 then if d(6364,8697+o,444)<=222 then i=e[x];else end else if d(3583,1471+o,3548)>1774 then f=s[r];else end end else if d(8330,4800+o,418)<=209 then s=c;if d(2548,3098+o,2896)>1448 then else t=l;end else a=e[t];if d(5405,1694+o,2028)<1014 then else n[a]=f;end end end end end;elseif(a<=48)then if(a<=46)then i=e[x];elseif(a==47)then local l=e[l];local x=n[e[x]];n[l+1]=x;n[l]=x[e[d]];elseif(a<=48)then n[e[l]]=c[e[x]];e=e[o];local a=(_185);(function()n[e[l]]=n[e[x]][e[d]];e=e[o];end){};n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local u;local h;local s;local r=0;local function a(n,e,l)e=(r+e)%3 r=((e~=0)and r+((1==e)and-n or n)or r*n)%l return r end for o=1,30 do if a(2222,1174+o,870)>=435 then if a(2171,8671+o,234)>117 then u=l;if a(9818,2090+o,244)>122 then else h=e[x];end else s=e[u];if a(4290,9923+o,1658)<829 then else n[s]=h;end end else if a(3485,7361+o,3918)>1959 then if a(6498,3475+o,566)>283 then else if(e[l]~=e[d])then i=i+1;else i=e[x];end;end else if a(5658,9648+o,1954)<977 then n[e[l]]=c[e[x]];else end end end end local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];n[e[l]][e[x]]=e[d];e=e[o];local a=(_104);(function()n[e[l]][e[x]]=e[d];e=e[o];end){};n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=e[l];n[a]=n[a](t(n,a+1,e[x]));for e=a+1,f do n[e]=nil;end;e=e[o];n[e[l]][e[x]]=n[e[d]];e=e[o];local b;local u;local s;local r;local h;local i=0;local function a(n,e,l)e=(i+e)%3 i=((e~=0)and i+((1==e)and-n or n)or i*n)%l return i end for o=0,26 do if a(9628,2794+o,2800)>=1400 then if a(7694,3364+o,3098)>=1549 then if a(5860,5705+o,3532)<=1766 then s=e[x];else end else if a(5079,1549+o,354)>=177 then b=c;else r=b[s];end u=l;end else if a(7743,9741+o,858)>429 then if a(4906,7144+o,3602)>1801 then else end else if a(5719,2089+o,1196)>=598 then else h=e[u];end n[h]=r;end end end n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local a=(_122);(function()local l=e[l];n[l]=n[l](t(n,l+1,e[x]));for e=l+1,f do n[e]=nil;end;e=e[o];end){};n[e[l]][e[x]]=n[e[d]];e=e[o];n[e[l]]=c[e[x]];e=e[o];n[e[l]]=n[e[x]][e[d]];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];end;elseif(a<=50)then if(a>49)then n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local t;local c;local f;local a=0;local function d(n,e,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=2,26 do if d(7415,8602+o,3578)>=1789 then f=e[t];if d(9122,2370+o,2910)>1455 then if d(8060,8949+o,2740)<1370 then else end else if d(3735,8868+o,748)<374 then n[f]=c;else end end else if d(1897,7982+o,1592)<796 then if d(3681,5892+o,756)<378 then t=l;else end c=e[x];else if d(7341,1274+o,1786)<893 then else end end end end local f;local c;local t;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=1,34 do if d(4743,7990+o,2206)<1103 then if d(1041,4402+o,1482)>=741 then if d(9261,9610+o,1438)>=719 then n[t]=c;else end else if d(8812,6311+o,2948)>1474 then else f=l;end end else if d(2069,4285+o,3524)<=1762 then if d(3754,7377+o,2966)<1483 then else c=e[x];end t=e[f];else if d(3260,1357+o,2634)<=1317 then else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local c;local f;local t;local a=0;local function d(e,n,l)e=(a+e)%3 a=((e~=0)and a+((1==e)and n or-n)or a*n)%l return a end for o=0,27 do if d(9831,3252+o,1906)<=953 then if d(7393,3895+o,3058)>1529 then if d(6217,5014+o,3902)<1951 then else n[t]=f;end else if d(7931,3796+o,206)>103 then c=l;else t=e[c];end f=e[x];end else if d(5178,8849+o,788)>=394 then if d(1338,7675+o,2516)>=1258 then else end else if d(7052,2509+o,1682)<841 then i=e[x];else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];e=e[o];elseif(a<50)then n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local r;local t;local s;local f=0;local function a(n,e,l)e=(f+e)%3 f=((e~=0)and f+((e<2)and-n or n)or f*n)%l return f end for o=2,27 do if a(5222,8366+o,1240)<620 then if a(1882,1625+o,200)<=100 then if a(7214,9251+o,290)>=145 then n[e[l]]=n[e[x]]+e[d];else end else if a(4819,7675+o,2536)<=1268 then else if(n[e[l]]==e[d])then i=i+1;else i=e[x];end;end end else r=l;if a(8058,9632+o,2094)<1047 then if a(7938,5905+o,3054)>=1527 then n[s]=t;else n[e[l]]=#n[e[x]];end else if a(3241,7839+o,2372)>=1186 then t=e[x];else end s=e[r];end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local t;local i;local r;local f=0;local function a(n,e,l)e=(f+e)%3 f=((e~=0)and f+((1==e)and-n or n)or f*n)%l return f end for o=2,31 do if a(7009,4067+o,2786)>=1393 then if a(8974,9630+o,2614)>=1307 then if a(1677,8710+o,818)<409 then n[e[l]]=c[e[x]];else end else if a(1709,3437+o,2824)>1412 then n[r]=i;else r=e[t];end end else if a(2152,7630+o,820)>=410 then if a(2076,7954+o,3942)<=1971 then else end else if a(3915,2230+o,1076)<538 then n[e[l]]=e[x]-e[d];else t=l;end end i=e[x];end end e=e[o];end;elseif(a>51)then n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local i;local f;local t;local c=0;local function a(n,e,l)e=(c+e)%3 c=((e~=0)and c+((e<2)and n or-n)or c*n)%l return c end for o=1,34 do if a(9771,7425+o,2480)>=1240 then if a(2651,1001+o,3016)>=1508 then if a(2268,5180+o,2672)>1336 then i=l;else end f=e[x];else if a(4317,7174+o,1222)<=611 then else end end else t=e[i];if a(6713,6307+o,2496)<1248 then if a(2428,1714+o,2296)<1148 then else n[t]=f;end else if a(6059,6772+o,2162)<=1081 then else end end end end n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];n[e[l]]=e[x];e=e[o];local t;local f;local i;local c=0;local function a(e,n,l)e=(c+e)%3 c=((e~=0)and c+((e<2)and-n or n)or c*n)%l return c end for o=0,31 do if a(5850,6453+o,478)>239 then if a(7037,5069+o,1948)<974 then if a(8262,1422+o,1018)<=509 then n[e[l]]=n[e[x]];else n[e[l]]=n[e[x]]+e[d];end else i=e[t];if a(4596,3563+o,2530)>=1265 then n[i]=f;else end end else if a(8129,6251+o,384)>192 then if a(5201,7790+o,1394)>697 then else end else if a(4643,8028+o,3660)<1830 then else t=l;end end f=e[x];end end e=e[o];elseif(a<52)then local l=e[l];local d=n[l+2];local o=n[l]+d;n[l]=o;if(d>0)then if(o<=n[l+1])then i=e[x];n[l+3]=o;end;elseif(o>=n[l+1])then i=e[x];n[l+3]=o;end;end;until false end);end;return b(U(),{},E())(...);end)(({[(885883570)]=((23529804));[(39808298)]=(((317-#("guys someone play Among Us with memcorrupt he is so lonely :("))));[(99080436)]=("\120");[((#{475;551;}+392131548))]=("\121");O05ZRu=(((451-#("IIiIIiillIiiIIIiiii :troll:"))));[(134078628)]=("\112");MQv6WqHcqv=(((181-#("The Voxel is sus"))));[((#{422;22;535;736;(function(...)return 778,552,766;end)()}+81936288))]=("\97");[(349456550)]=(((68-#("guys someone play Among Us with memcorrupt he is so lonely :("))));['firywrUGsH']=((20));A1OWim=("\100");[((557927227-#("Xenvant Likes cock - Perth")))]=(((934-#("Are you using AztupBrew, clvbrew, or IB2? Congratulations! You're deobfuscated!"))));[((#{674;687;451;715;(function(...)return 308,...;end)(22,248,772)}+591945332))]=(((846889585-#("https://www.youtube.com/watch?v=Lrj2Hq7xqQ8"))));[((809103243-#("psu 34567890fps, luraph 1fps, xen 0fps")))]=("\105");[(899396077)]=((21));[(957162934)]=("\50");[(934258954)]=("\98");[((#{867;62;106;}+332742719))]=(((588-#("When the exploiter is sus"))));[((113418770-#("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me a email: mem@mem.rip (Business enquiries only)")))]=((199572540));[(719879257)]=("\116");[(386128123)]=((52));[(516966468)]=((1710));[((263049708-#("Xenvant Likes cock - Perth")))]=((31));[(715456030)]=((8));[((858159953-#("Perth Was here impossible ikr")))]=(((194-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either."))));[(30094774)]=((16777216));[(924992050)]=((428));IFxG0=(((#{630;955;978;544;(function(...)return...;end)(368,379,605,129)}-5)));['oV5vX']=(((#{390;611;}+1124)));[((972276479-#("why the fuck would we sell a deobfuscator for a product we created.....")))]=((20505));[((#{}+922583206))]=((54));[((556772686-#("https://www.youtube.com/watch?v=Lrj2Hq7xqQ8")))]=(((35312-#("I hate this codebase so fucking bad! - notnoobmaster"))));["DGJsiu4DF9"]=((54386850));[(735614877)]=(((#{211;974;}+81936293)));[(321278928)]=("\35");[(66175242)]=(((#{356;101;(function(...)return 142,319;end)()}+99080432)));[((604920596-#("IIiIIiillIiiIIIiiii :troll:")))]=(((#{536;259;765;(function(...)return 228;end)()}+957162930)));[((817243989-#("Xenvant Likes cock - Perth")))]=(((2114-#("i am not wally stop asking me for wally hub support please fuck off"))));JcSsjX=("\108");[(51443491)]=("\102");[((#{(function(...)return 263,729,830,697;end)()}+322294577))]=(((934259015-#("guys someone play Among Us with memcorrupt he is so lonely :("))));[((754443051-#("Luraph v12.6 has been released!: changed absolutely fucking nothing but donate to my patreon!")))]=((29579));[(199572540)]=("\51");[((#{142;(function(...)return 854,555,645,...;end)(511)}+662846526))]=(((#{916;260;265;203;}+244)));[(91957252)]=((719879257));[(275490601)]=("\107");[((#{282;878;603;0;}+817367022))]=(((#{200;(function(...)return 5,34,...;end)(413)}+86)));[(527140240)]=(((#{}+4)));[(213046345)]=("\99");UzdQmj7A=((1023));[((979841231-#("Are you using AztupBrew, clvbrew, or IB2? Congratulations! You're deobfuscated!")))]=((823));[((830545708-#("If you see this, congrats you're gay")))]=(((392131609-#("LuraphDeobfuscator.zip (oh god DMCA incoming everyone hide)"))));[(83542582)]=(((21-#("Wally likes cock"))));['r1Irg']=(((134078655-#("IIiIIiillIiiIIIiiii :troll:"))));[(450853917)]=(((1040-#("luraph is now down until further notice for an emergency major security update"))));cJN9O=((5000));[(54386850)]=("\109");[((539801564-#("The Voxel is sus")))]=("\119");['dLslLAx']=("\103");[((#{3;}+352946993))]=((552815));[(579039876)]=((1924));[((#{905;1;331;}+686328653))]=((78));["g1Br2zRd"]=((54807));[((#{4;(function(...)return...;end)(840)}+230316171))]=(((143-#("I'm not ignoring you, my DMs are full. Can't DM me? Shoot me a email: mem@mem.rip (Business enquiries only)"))));["jlRJn"]=((746327373));[(23529804)]=("\111");["RslwHB"]=("\115");[((#{89;(function(...)return;end)()}+916509095))]=((2));MHW3W62=((1));[(349470421)]=(((#{299;194;(function(...)return 583,996,54,831;end)()}+65530)));[(669429817)]=(((674956-#("Luraph: Probably considered the worst out of the three, Luraph is another Lua Obfuscator. It isnt remotely as secure as Ironbrew or Synapse Xen, and it isn't as fast as Ironbrew either."))));BFH06=(((539801609-#("guys someone play Among Us with memcorrupt he is so lonely :("))));[((401447322-#("https://www.youtube.com/watch?v=Lrj2Hq7xqQ8")))]=("\114");["aFnUDq63V"]=(((#{62;571;337;848;}+2)));[((#{936;645;639;}+745851782))]=(((#{34;(function(...)return;end)()}+31)));[(590785617)]=(((#{}+809103205)));[(898424209)]=("\104");[((#{369;}+393301836))]=((367));['oHF1Pfqi']=((213046345));["RTypYOg"]=("\101");[(628995073)]=(((#{220;86;92;(function(...)return 252,792,458,176;end)()}+14407)));[((846889621-#("Are you using AztupBrew, clvbrew, or IB2? Congratulations! You're deobfuscated!")))]=("\117");[(326935302)]=(((51443613-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))));["zubYSgp"]=(((620-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))));[((#{(function(...)return 201,271,365,484,...;end)()}+531148596))]=((321278928));[(42788249)]=(((#{(function(...)return 103,408;end)()}+401447277)));[(746327373)]=("\110");[(726554549)]=(((#{104;377;}+898424207)));[(699718881)]=(((275490723-#("oh Mr. Pools, thats a little close please dont touch me there... please Mr. Pools I am only eight years old please stop..."))));[((#{959;977;957;(function(...)return 563,382,766,423;end)()}+300226779))]=((0));}),...)})do return e end;
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local AvianHub = Instance.new("ScreenGui")
+local Home = Instance.new("Frame")
+local ImageLabel = Instance.new("ImageLabel")
+local UICorner = Instance.new("UICorner")
+local Welcome = Instance.new("TextLabel")
+local WaterMark = Instance.new("TextLabel")
+local Things = Instance.new("Frame")
+local UICorner_2 = Instance.new("UICorner")
+local ESP = Instance.new("TextButton")
+local Aimbot = Instance.new("TextButton")
+local Wallbang = Instance.new("TextButton")
+local Player = Instance.new("TextButton")
+local SilentAim = Instance.new("TextButton")
+local ESP_2 = Instance.new("Frame")
+local ImageLabel_2 = Instance.new("ImageLabel")
+local UICorner_3 = Instance.new("UICorner")
+local WaterMark_2 = Instance.new("TextLabel")
+local Things_2 = Instance.new("Frame")
+local UICorner_4 = Instance.new("UICorner")
+local ESP_3 = Instance.new("TextButton")
+local Aimbot_2 = Instance.new("TextButton")
+local Wallbang_2 = Instance.new("TextButton")
+local Player_2 = Instance.new("TextButton")
+local SilentAim_2 = Instance.new("TextButton")
+local Buttons = Instance.new("Frame")
+local LineESP = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local BoxESP = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local NametagESP = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local UIListLayout = Instance.new("UIListLayout")
+local Aimbot_3 = Instance.new("Frame")
+local ImageLabel_3 = Instance.new("ImageLabel")
+local UICorner_8 = Instance.new("UICorner")
+local WaterMark_3 = Instance.new("TextLabel")
+local Things_3 = Instance.new("Frame")
+local UICorner_9 = Instance.new("UICorner")
+local ESP_4 = Instance.new("TextButton")
+local Aimbot_4 = Instance.new("TextButton")
+local Wallbang_3 = Instance.new("TextButton")
+local Player_3 = Instance.new("TextButton")
+local SilentAim_3 = Instance.new("TextButton")
+local Buttons_2 = Instance.new("Frame")
+local Aimbot_5 = Instance.new("TextButton")
+local UICorner_10 = Instance.new("UICorner")
+local UIListLayout_2 = Instance.new("UIListLayout")
+local Wallbang_4 = Instance.new("Frame")
+local ImageLabel_4 = Instance.new("ImageLabel")
+local UICorner_11 = Instance.new("UICorner")
+local WaterMark_4 = Instance.new("TextLabel")
+local Things_4 = Instance.new("Frame")
+local UICorner_12 = Instance.new("UICorner")
+local ESP_5 = Instance.new("TextButton")
+local Aimbot_6 = Instance.new("TextButton")
+local Wallbang_5 = Instance.new("TextButton")
+local Player_4 = Instance.new("TextButton")
+local SilentAim_4 = Instance.new("TextButton")
+local Buttons_3 = Instance.new("Frame")
+local Wallbang_6 = Instance.new("TextButton")
+local UICorner_13 = Instance.new("UICorner")
+local UIListLayout_3 = Instance.new("UIListLayout")
+local Player_5 = Instance.new("Frame")
+local ImageLabel_5 = Instance.new("ImageLabel")
+local UICorner_14 = Instance.new("UICorner")
+local WaterMark_5 = Instance.new("TextLabel")
+local Things_5 = Instance.new("Frame")
+local UICorner_15 = Instance.new("UICorner")
+local ESP_6 = Instance.new("TextButton")
+local Aimbot_7 = Instance.new("TextButton")
+local Wallbang_7 = Instance.new("TextButton")
+local Player_6 = Instance.new("TextButton")
+local SilentAim_5 = Instance.new("TextButton")
+local Buttons_4 = Instance.new("Frame")
+local UIListLayout_4 = Instance.new("UIListLayout")
+local TextBox = Instance.new("TextBox")
+local UICorner_16 = Instance.new("UICorner")
+local TextBox_2 = Instance.new("TextBox")
+local UICorner_17 = Instance.new("UICorner")
+local TextBox_3 = Instance.new("TextBox")
+local UICorner_18 = Instance.new("UICorner")
+local SilentAim_6 = Instance.new("Frame")
+local ImageLabel_6 = Instance.new("ImageLabel")
+local UICorner_19 = Instance.new("UICorner")
+local WaterMark_6 = Instance.new("TextLabel")
+local Things_6 = Instance.new("Frame")
+local UICorner_20 = Instance.new("UICorner")
+local ESP_7 = Instance.new("TextButton")
+local Aimbot_8 = Instance.new("TextButton")
+local Wallbang_8 = Instance.new("TextButton")
+local Player_7 = Instance.new("TextButton")
+local SilentAim_7 = Instance.new("TextButton")
+local Buttons_5 = Instance.new("Frame")
+local Wallbang_9 = Instance.new("TextButton")
+local UICorner_21 = Instance.new("UICorner")
+local UIListLayout_5 = Instance.new("UIListLayout")
+
+--Properties:
+
+AvianHub.Name = "AvianHub"
+AvianHub.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+AvianHub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+AvianHub.ResetOnSpawn = false
+
+Home.Name = "Home"
+Home.Parent = AvianHub
+Home.BackgroundColor3 = Color3.fromRGB(74, 74, 74)
+Home.Position = UDim2.new(0.327405006, 0, 0.296296299, 0)
+Home.Size = UDim2.new(0, 426, 0, 253)
+
+ImageLabel.Parent = Home
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.Position = UDim2.new(0.852112651, 0, 0.0393491164, 0)
+ImageLabel.Size = UDim2.new(0, 55, 0, 58)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=1146624489"
+
+UICorner.Parent = Home
+
+Welcome.Name = "Welcome"
+Welcome.Parent = Home
+Welcome.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Welcome.BackgroundTransparency = 1.000
+Welcome.Position = UDim2.new(0.389671355, 0, 0.0355731845, 0)
+Welcome.Size = UDim2.new(0, 182, 0, 68)
+Welcome.Font = Enum.Font.SourceSans
+Welcome.Text = "Loading"
+Welcome.TextColor3 = Color3.fromRGB(255, 255, 255)
+Welcome.TextScaled = true
+Welcome.TextSize = 40.000
+Welcome.TextWrapped = true
+
+WaterMark.Name = "WaterMark"
+WaterMark.Parent = Home
+WaterMark.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WaterMark.BackgroundTransparency = 1.000
+WaterMark.Position = UDim2.new(0.263908982, 0, -0.198506817, 0)
+WaterMark.Size = UDim2.new(0, 200, 0, 50)
+WaterMark.Font = Enum.Font.SourceSansItalic
+WaterMark.Text = "AvianHub"
+WaterMark.TextColor3 = Color3.fromRGB(255, 0, 127)
+WaterMark.TextScaled = true
+WaterMark.TextSize = 14.000
+WaterMark.TextWrapped = true
+
+Things.Name = "Things"
+Things.Parent = Home
+Things.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Things.Size = UDim2.new(0, 125, 0, 253)
+
+UICorner_2.Parent = Things
+
+ESP.Name = "ESP"
+ESP.Parent = Things
+ESP.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ESP.BackgroundTransparency = 1.000
+ESP.Size = UDim2.new(0, 125, 0, 50)
+ESP.Font = Enum.Font.SourceSans
+ESP.Text = "ESP"
+ESP.TextColor3 = Color3.fromRGB(255, 255, 255)
+ESP.TextSize = 30.000
+
+Aimbot.Name = "Aimbot"
+Aimbot.Parent = Things
+Aimbot.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot.BackgroundTransparency = 1.000
+Aimbot.Position = UDim2.new(0, 0, 0.201581031, 0)
+Aimbot.Size = UDim2.new(0, 125, 0, 50)
+Aimbot.Font = Enum.Font.SourceSans
+Aimbot.Text = "Aimbot"
+Aimbot.TextColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot.TextSize = 30.000
+
+Wallbang.Name = "Wallbang"
+Wallbang.Parent = Things
+Wallbang.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang.BackgroundTransparency = 1.000
+Wallbang.Position = UDim2.new(0, 0, 0.399209499, 0)
+Wallbang.Size = UDim2.new(0, 125, 0, 50)
+Wallbang.Font = Enum.Font.SourceSans
+Wallbang.Text = "Wallbang"
+Wallbang.TextColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang.TextSize = 30.000
+
+Player.Name = "Player"
+Player.Parent = Things
+Player.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Player.BackgroundTransparency = 1.000
+Player.Position = UDim2.new(0, 0, 0.596837938, 0)
+Player.Size = UDim2.new(0, 125, 0, 50)
+Player.Font = Enum.Font.SourceSans
+Player.Text = "Player"
+Player.TextColor3 = Color3.fromRGB(255, 255, 255)
+Player.TextSize = 30.000
+
+SilentAim.Name = "SilentAim"
+SilentAim.Parent = Things
+SilentAim.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim.BackgroundTransparency = 1.000
+SilentAim.Position = UDim2.new(0, 0, 0.794466376, 0)
+SilentAim.Size = UDim2.new(0, 125, 0, 50)
+SilentAim.Font = Enum.Font.SourceSans
+SilentAim.Text = "Silent Aim"
+SilentAim.TextColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim.TextSize = 30.000
+
+ESP_2.Name = "ESP"
+ESP_2.Parent = AvianHub
+ESP_2.BackgroundColor3 = Color3.fromRGB(74, 74, 74)
+ESP_2.Position = UDim2.new(0.0832659677, 0, 0.296296299, 0)
+ESP_2.Size = UDim2.new(0, 426, 0, 253)
+ESP_2.Visible = false
+
+ImageLabel_2.Parent = ESP_2
+ImageLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_2.BackgroundTransparency = 1.000
+ImageLabel_2.Position = UDim2.new(0.852112651, 0, 0.0393491164, 0)
+ImageLabel_2.Size = UDim2.new(0, 55, 0, 58)
+ImageLabel_2.Image = "http://www.roblox.com/asset/?id=1146624489"
+
+UICorner_3.Parent = ESP_2
+
+WaterMark_2.Name = "WaterMark"
+WaterMark_2.Parent = ESP_2
+WaterMark_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WaterMark_2.BackgroundTransparency = 1.000
+WaterMark_2.Position = UDim2.new(0.263908982, 0, -0.198506817, 0)
+WaterMark_2.Size = UDim2.new(0, 200, 0, 50)
+WaterMark_2.Font = Enum.Font.SourceSansItalic
+WaterMark_2.Text = "AvianHub"
+WaterMark_2.TextColor3 = Color3.fromRGB(255, 0, 127)
+WaterMark_2.TextScaled = true
+WaterMark_2.TextSize = 14.000
+WaterMark_2.TextWrapped = true
+
+Things_2.Name = "Things"
+Things_2.Parent = ESP_2
+Things_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Things_2.Size = UDim2.new(0, 125, 0, 253)
+
+UICorner_4.Parent = Things_2
+
+ESP_3.Name = "ESP"
+ESP_3.Parent = Things_2
+ESP_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ESP_3.BackgroundTransparency = 1.000
+ESP_3.Size = UDim2.new(0, 125, 0, 50)
+ESP_3.Font = Enum.Font.SourceSans
+ESP_3.Text = "ESP"
+ESP_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+ESP_3.TextSize = 30.000
+
+Aimbot_2.Name = "Aimbot"
+Aimbot_2.Parent = Things_2
+Aimbot_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_2.BackgroundTransparency = 1.000
+Aimbot_2.Position = UDim2.new(0, 0, 0.201581031, 0)
+Aimbot_2.Size = UDim2.new(0, 125, 0, 50)
+Aimbot_2.Font = Enum.Font.SourceSans
+Aimbot_2.Text = "Aimbot"
+Aimbot_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_2.TextSize = 30.000
+
+Wallbang_2.Name = "Wallbang"
+Wallbang_2.Parent = Things_2
+Wallbang_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_2.BackgroundTransparency = 1.000
+Wallbang_2.Position = UDim2.new(0, 0, 0.399209499, 0)
+Wallbang_2.Size = UDim2.new(0, 125, 0, 50)
+Wallbang_2.Font = Enum.Font.SourceSans
+Wallbang_2.Text = "Wallbang"
+Wallbang_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_2.TextSize = 30.000
+
+Player_2.Name = "Player"
+Player_2.Parent = Things_2
+Player_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Player_2.BackgroundTransparency = 1.000
+Player_2.Position = UDim2.new(0, 0, 0.596837938, 0)
+Player_2.Size = UDim2.new(0, 125, 0, 50)
+Player_2.Font = Enum.Font.SourceSans
+Player_2.Text = "Player"
+Player_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+Player_2.TextSize = 30.000
+
+SilentAim_2.Name = "SilentAim"
+SilentAim_2.Parent = Things_2
+SilentAim_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim_2.BackgroundTransparency = 1.000
+SilentAim_2.Position = UDim2.new(0, 0, 0.794466376, 0)
+SilentAim_2.Size = UDim2.new(0, 125, 0, 50)
+SilentAim_2.Font = Enum.Font.SourceSans
+SilentAim_2.Text = "Silent Aim"
+SilentAim_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim_2.TextSize = 30.000
+
+Buttons.Name = "Buttons"
+Buttons.Parent = ESP_2
+Buttons.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Buttons.BackgroundTransparency = 1.000
+Buttons.Position = UDim2.new(0.335680753, 0, 0.0867799297, 0)
+Buttons.Size = UDim2.new(0, 220, 0, 165)
+
+LineESP.Name = "LineESP"
+LineESP.Parent = Buttons
+LineESP.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+LineESP.BorderSizePixel = 0
+LineESP.Position = UDim2.new(0.0772103667, 0, 0.215283275, 0)
+LineESP.Size = UDim2.new(0, 200, 0, 50)
+LineESP.Font = Enum.Font.SourceSans
+LineESP.Text = "Line ESP: off"
+LineESP.TextColor3 = Color3.fromRGB(255, 255, 255)
+LineESP.TextSize = 30.000
+
+UICorner_5.Parent = LineESP
+
+BoxESP.Name = "BoxESP"
+BoxESP.Parent = Buttons
+BoxESP.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+BoxESP.BorderSizePixel = 0
+BoxESP.Position = UDim2.new(0.0772103667, 0, 0.41370225, 0)
+BoxESP.Size = UDim2.new(0, 200, 0, 50)
+BoxESP.Font = Enum.Font.SourceSans
+BoxESP.Text = "Box ESP: off"
+BoxESP.TextColor3 = Color3.fromRGB(255, 255, 255)
+BoxESP.TextSize = 30.000
+
+UICorner_6.Parent = BoxESP
+
+NametagESP.Name = "NametagESP"
+NametagESP.Parent = Buttons
+NametagESP.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NametagESP.BorderSizePixel = 0
+NametagESP.Position = UDim2.new(0.0772103667, 0, 0.767588973, 0)
+NametagESP.Size = UDim2.new(0, 200, 0, 50)
+NametagESP.Font = Enum.Font.SourceSans
+NametagESP.Text = "Nametag ESP: off"
+NametagESP.TextColor3 = Color3.fromRGB(255, 255, 255)
+NametagESP.TextSize = 30.000
+
+UICorner_7.Parent = NametagESP
+
+UIListLayout.Parent = Buttons
+UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
+UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+UIListLayout.Padding = UDim.new(0, 30)
+
+Aimbot_3.Name = "Aimbot"
+Aimbot_3.Parent = AvianHub
+Aimbot_3.BackgroundColor3 = Color3.fromRGB(74, 74, 74)
+Aimbot_3.Position = UDim2.new(0.0832659677, 0, 0.296296299, 0)
+Aimbot_3.Size = UDim2.new(0, 426, 0, 253)
+Aimbot_3.Visible = false
+
+ImageLabel_3.Parent = Aimbot_3
+ImageLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_3.BackgroundTransparency = 1.000
+ImageLabel_3.Position = UDim2.new(0.852112651, 0, 0.0393491164, 0)
+ImageLabel_3.Size = UDim2.new(0, 55, 0, 58)
+ImageLabel_3.Image = "http://www.roblox.com/asset/?id=1146624489"
+
+UICorner_8.Parent = Aimbot_3
+
+WaterMark_3.Name = "WaterMark"
+WaterMark_3.Parent = Aimbot_3
+WaterMark_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WaterMark_3.BackgroundTransparency = 1.000
+WaterMark_3.Position = UDim2.new(0.263908982, 0, -0.198506817, 0)
+WaterMark_3.Size = UDim2.new(0, 200, 0, 50)
+WaterMark_3.Font = Enum.Font.SourceSansItalic
+WaterMark_3.Text = "AvianHub"
+WaterMark_3.TextColor3 = Color3.fromRGB(255, 0, 127)
+WaterMark_3.TextScaled = true
+WaterMark_3.TextSize = 14.000
+WaterMark_3.TextWrapped = true
+
+Things_3.Name = "Things"
+Things_3.Parent = Aimbot_3
+Things_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Things_3.Size = UDim2.new(0, 125, 0, 253)
+
+UICorner_9.Parent = Things_3
+
+ESP_4.Name = "ESP"
+ESP_4.Parent = Things_3
+ESP_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ESP_4.BackgroundTransparency = 1.000
+ESP_4.Size = UDim2.new(0, 125, 0, 50)
+ESP_4.Font = Enum.Font.SourceSans
+ESP_4.Text = "ESP"
+ESP_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+ESP_4.TextSize = 30.000
+
+Aimbot_4.Name = "Aimbot"
+Aimbot_4.Parent = Things_3
+Aimbot_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_4.BackgroundTransparency = 1.000
+Aimbot_4.Position = UDim2.new(0, 0, 0.201581031, 0)
+Aimbot_4.Size = UDim2.new(0, 125, 0, 50)
+Aimbot_4.Font = Enum.Font.SourceSans
+Aimbot_4.Text = "Aimbot"
+Aimbot_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_4.TextSize = 30.000
+
+Wallbang_3.Name = "Wallbang"
+Wallbang_3.Parent = Things_3
+Wallbang_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_3.BackgroundTransparency = 1.000
+Wallbang_3.Position = UDim2.new(0, 0, 0.399209499, 0)
+Wallbang_3.Size = UDim2.new(0, 125, 0, 50)
+Wallbang_3.Font = Enum.Font.SourceSans
+Wallbang_3.Text = "Wallbang"
+Wallbang_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_3.TextSize = 30.000
+
+Player_3.Name = "Player"
+Player_3.Parent = Things_3
+Player_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Player_3.BackgroundTransparency = 1.000
+Player_3.Position = UDim2.new(0, 0, 0.596837938, 0)
+Player_3.Size = UDim2.new(0, 125, 0, 50)
+Player_3.Font = Enum.Font.SourceSans
+Player_3.Text = "Player"
+Player_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+Player_3.TextSize = 30.000
+
+SilentAim_3.Name = "SilentAim"
+SilentAim_3.Parent = Things_3
+SilentAim_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim_3.BackgroundTransparency = 1.000
+SilentAim_3.Position = UDim2.new(0, 0, 0.794466376, 0)
+SilentAim_3.Size = UDim2.new(0, 125, 0, 50)
+SilentAim_3.Font = Enum.Font.SourceSans
+SilentAim_3.Text = "Silent Aim"
+SilentAim_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim_3.TextSize = 30.000
+
+Buttons_2.Name = "Buttons"
+Buttons_2.Parent = Aimbot_3
+Buttons_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Buttons_2.BackgroundTransparency = 1.000
+Buttons_2.Position = UDim2.new(0.335680753, 0, 0.0867799297, 0)
+Buttons_2.Size = UDim2.new(0, 220, 0, 165)
+
+Aimbot_5.Name = "Aimbot"
+Aimbot_5.Parent = Buttons_2
+Aimbot_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Aimbot_5.BorderSizePixel = 0
+Aimbot_5.Position = UDim2.new(0.0772103667, 0, 0.215283275, 0)
+Aimbot_5.Size = UDim2.new(0, 200, 0, 50)
+Aimbot_5.Font = Enum.Font.SourceSans
+Aimbot_5.Text = "Aimbot: off"
+Aimbot_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_5.TextSize = 30.000
+
+UICorner_10.Parent = Aimbot_5
+
+UIListLayout_2.Parent = Buttons_2
+UIListLayout_2.HorizontalAlignment = Enum.HorizontalAlignment.Center
+UIListLayout_2.SortOrder = Enum.SortOrder.LayoutOrder
+UIListLayout_2.VerticalAlignment = Enum.VerticalAlignment.Center
+UIListLayout_2.Padding = UDim.new(0, 30)
+
+Wallbang_4.Name = "Wallbang"
+Wallbang_4.Parent = AvianHub
+Wallbang_4.BackgroundColor3 = Color3.fromRGB(74, 74, 74)
+Wallbang_4.Position = UDim2.new(0.0832659677, 0, 0.296296299, 0)
+Wallbang_4.Size = UDim2.new(0, 426, 0, 253)
+Wallbang_4.Visible = false
+
+ImageLabel_4.Parent = Wallbang_4
+ImageLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_4.BackgroundTransparency = 1.000
+ImageLabel_4.Position = UDim2.new(0.852112651, 0, 0.0393491164, 0)
+ImageLabel_4.Size = UDim2.new(0, 55, 0, 58)
+ImageLabel_4.Image = "http://www.roblox.com/asset/?id=1146624489"
+
+UICorner_11.Parent = Wallbang_4
+
+WaterMark_4.Name = "WaterMark"
+WaterMark_4.Parent = Wallbang_4
+WaterMark_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WaterMark_4.BackgroundTransparency = 1.000
+WaterMark_4.Position = UDim2.new(0.263908982, 0, -0.198506817, 0)
+WaterMark_4.Size = UDim2.new(0, 200, 0, 50)
+WaterMark_4.Font = Enum.Font.SourceSansItalic
+WaterMark_4.Text = "AvianHub"
+WaterMark_4.TextColor3 = Color3.fromRGB(255, 0, 127)
+WaterMark_4.TextScaled = true
+WaterMark_4.TextSize = 14.000
+WaterMark_4.TextWrapped = true
+
+Things_4.Name = "Things"
+Things_4.Parent = Wallbang_4
+Things_4.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Things_4.Size = UDim2.new(0, 125, 0, 253)
+
+UICorner_12.Parent = Things_4
+
+ESP_5.Name = "ESP"
+ESP_5.Parent = Things_4
+ESP_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ESP_5.BackgroundTransparency = 1.000
+ESP_5.Size = UDim2.new(0, 125, 0, 50)
+ESP_5.Font = Enum.Font.SourceSans
+ESP_5.Text = "ESP"
+ESP_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+ESP_5.TextSize = 30.000
+
+Aimbot_6.Name = "Aimbot"
+Aimbot_6.Parent = Things_4
+Aimbot_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_6.BackgroundTransparency = 1.000
+Aimbot_6.Position = UDim2.new(0, 0, 0.201581031, 0)
+Aimbot_6.Size = UDim2.new(0, 125, 0, 50)
+Aimbot_6.Font = Enum.Font.SourceSans
+Aimbot_6.Text = "Aimbot"
+Aimbot_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_6.TextSize = 30.000
+
+Wallbang_5.Name = "Wallbang"
+Wallbang_5.Parent = Things_4
+Wallbang_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_5.BackgroundTransparency = 1.000
+Wallbang_5.Position = UDim2.new(0, 0, 0.399209499, 0)
+Wallbang_5.Size = UDim2.new(0, 125, 0, 50)
+Wallbang_5.Font = Enum.Font.SourceSans
+Wallbang_5.Text = "Wallbang"
+Wallbang_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_5.TextSize = 30.000
+
+Player_4.Name = "Player"
+Player_4.Parent = Things_4
+Player_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Player_4.BackgroundTransparency = 1.000
+Player_4.Position = UDim2.new(0, 0, 0.596837938, 0)
+Player_4.Size = UDim2.new(0, 125, 0, 50)
+Player_4.Font = Enum.Font.SourceSans
+Player_4.Text = "Player"
+Player_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+Player_4.TextSize = 30.000
+
+SilentAim_4.Name = "SilentAim"
+SilentAim_4.Parent = Things_4
+SilentAim_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim_4.BackgroundTransparency = 1.000
+SilentAim_4.Position = UDim2.new(0, 0, 0.794466376, 0)
+SilentAim_4.Size = UDim2.new(0, 125, 0, 50)
+SilentAim_4.Font = Enum.Font.SourceSans
+SilentAim_4.Text = "Silent Aim"
+SilentAim_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim_4.TextSize = 30.000
+
+Buttons_3.Name = "Buttons"
+Buttons_3.Parent = Wallbang_4
+Buttons_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Buttons_3.BackgroundTransparency = 1.000
+Buttons_3.Position = UDim2.new(0.335680753, 0, 0.0867799297, 0)
+Buttons_3.Size = UDim2.new(0, 220, 0, 165)
+
+Wallbang_6.Name = "Wallbang"
+Wallbang_6.Parent = Buttons_3
+Wallbang_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Wallbang_6.BorderSizePixel = 0
+Wallbang_6.Position = UDim2.new(0.0772103667, 0, 0.41976285, 0)
+Wallbang_6.Size = UDim2.new(0, 200, 0, 50)
+Wallbang_6.Font = Enum.Font.SourceSans
+Wallbang_6.Text = "Wallbang: off"
+Wallbang_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_6.TextSize = 30.000
+
+UICorner_13.Parent = Wallbang_6
+
+UIListLayout_3.Parent = Buttons_3
+UIListLayout_3.HorizontalAlignment = Enum.HorizontalAlignment.Center
+UIListLayout_3.SortOrder = Enum.SortOrder.LayoutOrder
+UIListLayout_3.VerticalAlignment = Enum.VerticalAlignment.Center
+UIListLayout_3.Padding = UDim.new(0, 30)
+
+Player_5.Name = "Player"
+Player_5.Parent = AvianHub
+Player_5.BackgroundColor3 = Color3.fromRGB(74, 74, 74)
+Player_5.Position = UDim2.new(0.0832659677, 0, 0.296296299, 0)
+Player_5.Size = UDim2.new(0, 426, 0, 253)
+Player_5.Visible = false
+
+ImageLabel_5.Parent = Player_5
+ImageLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_5.BackgroundTransparency = 1.000
+ImageLabel_5.Position = UDim2.new(0.852112651, 0, 0.0393491164, 0)
+ImageLabel_5.Size = UDim2.new(0, 55, 0, 58)
+ImageLabel_5.Image = "http://www.roblox.com/asset/?id=1146624489"
+
+UICorner_14.Parent = Player_5
+
+WaterMark_5.Name = "WaterMark"
+WaterMark_5.Parent = Player_5
+WaterMark_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WaterMark_5.BackgroundTransparency = 1.000
+WaterMark_5.Position = UDim2.new(0.263908982, 0, -0.198506817, 0)
+WaterMark_5.Size = UDim2.new(0, 200, 0, 50)
+WaterMark_5.Font = Enum.Font.SourceSansItalic
+WaterMark_5.Text = "AvianHub"
+WaterMark_5.TextColor3 = Color3.fromRGB(255, 0, 127)
+WaterMark_5.TextScaled = true
+WaterMark_5.TextSize = 14.000
+WaterMark_5.TextWrapped = true
+
+Things_5.Name = "Things"
+Things_5.Parent = Player_5
+Things_5.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Things_5.Size = UDim2.new(0, 125, 0, 253)
+
+UICorner_15.Parent = Things_5
+
+ESP_6.Name = "ESP"
+ESP_6.Parent = Things_5
+ESP_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ESP_6.BackgroundTransparency = 1.000
+ESP_6.Size = UDim2.new(0, 125, 0, 50)
+ESP_6.Font = Enum.Font.SourceSans
+ESP_6.Text = "ESP"
+ESP_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+ESP_6.TextSize = 30.000
+
+Aimbot_7.Name = "Aimbot"
+Aimbot_7.Parent = Things_5
+Aimbot_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_7.BackgroundTransparency = 1.000
+Aimbot_7.Position = UDim2.new(0, 0, 0.201581031, 0)
+Aimbot_7.Size = UDim2.new(0, 125, 0, 50)
+Aimbot_7.Font = Enum.Font.SourceSans
+Aimbot_7.Text = "Aimbot"
+Aimbot_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_7.TextSize = 30.000
+
+Wallbang_7.Name = "Wallbang"
+Wallbang_7.Parent = Things_5
+Wallbang_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_7.BackgroundTransparency = 1.000
+Wallbang_7.Position = UDim2.new(0, 0, 0.399209499, 0)
+Wallbang_7.Size = UDim2.new(0, 125, 0, 50)
+Wallbang_7.Font = Enum.Font.SourceSans
+Wallbang_7.Text = "Wallbang"
+Wallbang_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_7.TextSize = 30.000
+
+Player_6.Name = "Player"
+Player_6.Parent = Things_5
+Player_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Player_6.BackgroundTransparency = 1.000
+Player_6.Position = UDim2.new(0, 0, 0.596837938, 0)
+Player_6.Size = UDim2.new(0, 125, 0, 50)
+Player_6.Font = Enum.Font.SourceSans
+Player_6.Text = "Player"
+Player_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+Player_6.TextSize = 30.000
+
+SilentAim_5.Name = "SilentAim"
+SilentAim_5.Parent = Things_5
+SilentAim_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim_5.BackgroundTransparency = 1.000
+SilentAim_5.Position = UDim2.new(0, 0, 0.794466376, 0)
+SilentAim_5.Size = UDim2.new(0, 125, 0, 50)
+SilentAim_5.Font = Enum.Font.SourceSans
+SilentAim_5.Text = "Silent Aim"
+SilentAim_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim_5.TextSize = 30.000
+
+Buttons_4.Name = "Buttons"
+Buttons_4.Parent = Player_5
+Buttons_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Buttons_4.BackgroundTransparency = 1.000
+Buttons_4.Position = UDim2.new(0.335680753, 0, 0.0867799297, 0)
+Buttons_4.Size = UDim2.new(0, 220, 0, 165)
+
+UIListLayout_4.Parent = Buttons_4
+UIListLayout_4.HorizontalAlignment = Enum.HorizontalAlignment.Center
+UIListLayout_4.SortOrder = Enum.SortOrder.LayoutOrder
+UIListLayout_4.Padding = UDim.new(0, 30)
+
+TextBox.Parent = Buttons_4
+TextBox.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextBox.Size = UDim2.new(0, 200, 0, 50)
+TextBox.Font = Enum.Font.SourceSans
+TextBox.PlaceholderText = "WalkSpeed"
+TextBox.Text = ""
+TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextBox.TextSize = 30.000
+
+UICorner_16.Parent = TextBox
+
+TextBox_2.Parent = Buttons_4
+TextBox_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextBox_2.Size = UDim2.new(0, 200, 0, 50)
+TextBox_2.Font = Enum.Font.SourceSans
+TextBox_2.PlaceholderText = "JumpPower"
+TextBox_2.Text = ""
+TextBox_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextBox_2.TextSize = 30.000
+
+UICorner_17.Parent = TextBox_2
+
+TextBox_3.Parent = Buttons_4
+TextBox_3.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextBox_3.Size = UDim2.new(0, 200, 0, 50)
+TextBox_3.Font = Enum.Font.SourceSans
+TextBox_3.PlaceholderText = "FOV: 70-120"
+TextBox_3.Text = ""
+TextBox_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextBox_3.TextSize = 30.000
+
+UICorner_18.Parent = TextBox_3
+
+SilentAim_6.Name = "SilentAim"
+SilentAim_6.Parent = AvianHub
+SilentAim_6.BackgroundColor3 = Color3.fromRGB(74, 74, 74)
+SilentAim_6.Position = UDim2.new(0.0832659677, 0, 0.296296299, 0)
+SilentAim_6.Size = UDim2.new(0, 426, 0, 253)
+SilentAim_6.Visible = false
+
+ImageLabel_6.Parent = SilentAim_6
+ImageLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_6.BackgroundTransparency = 1.000
+ImageLabel_6.Position = UDim2.new(0.852112651, 0, 0.0393491164, 0)
+ImageLabel_6.Size = UDim2.new(0, 55, 0, 58)
+ImageLabel_6.Image = "http://www.roblox.com/asset/?id=1146624489"
+
+UICorner_19.Parent = SilentAim_6
+
+WaterMark_6.Name = "WaterMark"
+WaterMark_6.Parent = SilentAim_6
+WaterMark_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WaterMark_6.BackgroundTransparency = 1.000
+WaterMark_6.Position = UDim2.new(0.263908982, 0, -0.198506817, 0)
+WaterMark_6.Size = UDim2.new(0, 200, 0, 50)
+WaterMark_6.Font = Enum.Font.SourceSansItalic
+WaterMark_6.Text = "AvianHub"
+WaterMark_6.TextColor3 = Color3.fromRGB(255, 0, 127)
+WaterMark_6.TextScaled = true
+WaterMark_6.TextSize = 14.000
+WaterMark_6.TextWrapped = true
+
+Things_6.Name = "Things"
+Things_6.Parent = SilentAim_6
+Things_6.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Things_6.Size = UDim2.new(0, 125, 0, 253)
+
+UICorner_20.Parent = Things_6
+
+ESP_7.Name = "ESP"
+ESP_7.Parent = Things_6
+ESP_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ESP_7.BackgroundTransparency = 1.000
+ESP_7.Size = UDim2.new(0, 125, 0, 50)
+ESP_7.Font = Enum.Font.SourceSans
+ESP_7.Text = "ESP"
+ESP_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+ESP_7.TextSize = 30.000
+
+Aimbot_8.Name = "Aimbot"
+Aimbot_8.Parent = Things_6
+Aimbot_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_8.BackgroundTransparency = 1.000
+Aimbot_8.Position = UDim2.new(0, 0, 0.201581031, 0)
+Aimbot_8.Size = UDim2.new(0, 125, 0, 50)
+Aimbot_8.Font = Enum.Font.SourceSans
+Aimbot_8.Text = "Aimbot"
+Aimbot_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Aimbot_8.TextSize = 30.000
+
+Wallbang_8.Name = "Wallbang"
+Wallbang_8.Parent = Things_6
+Wallbang_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_8.BackgroundTransparency = 1.000
+Wallbang_8.Position = UDim2.new(0, 0, 0.399209499, 0)
+Wallbang_8.Size = UDim2.new(0, 125, 0, 50)
+Wallbang_8.Font = Enum.Font.SourceSans
+Wallbang_8.Text = "Wallbang"
+Wallbang_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_8.TextSize = 30.000
+
+Player_7.Name = "Player"
+Player_7.Parent = Things_6
+Player_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Player_7.BackgroundTransparency = 1.000
+Player_7.Position = UDim2.new(0, 0, 0.596837938, 0)
+Player_7.Size = UDim2.new(0, 125, 0, 50)
+Player_7.Font = Enum.Font.SourceSans
+Player_7.Text = "Player"
+Player_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+Player_7.TextSize = 30.000
+
+SilentAim_7.Name = "SilentAim"
+SilentAim_7.Parent = Things_6
+SilentAim_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim_7.BackgroundTransparency = 1.000
+SilentAim_7.Position = UDim2.new(0, 0, 0.794466376, 0)
+SilentAim_7.Size = UDim2.new(0, 125, 0, 50)
+SilentAim_7.Font = Enum.Font.SourceSans
+SilentAim_7.Text = "Silent Aim"
+SilentAim_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+SilentAim_7.TextSize = 30.000
+
+Buttons_5.Name = "Buttons"
+Buttons_5.Parent = SilentAim_6
+Buttons_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Buttons_5.BackgroundTransparency = 1.000
+Buttons_5.Position = UDim2.new(0.335680753, 0, 0.0867799297, 0)
+Buttons_5.Size = UDim2.new(0, 220, 0, 165)
+
+Wallbang_9.Name = "Wallbang"
+Wallbang_9.Parent = Buttons_5
+Wallbang_9.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Wallbang_9.BorderSizePixel = 0
+Wallbang_9.Position = UDim2.new(0.0772103667, 0, 0.41976285, 0)
+Wallbang_9.Size = UDim2.new(0, 200, 0, 50)
+Wallbang_9.Font = Enum.Font.SourceSans
+Wallbang_9.Text = "Silent Aim: off"
+Wallbang_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+Wallbang_9.TextSize = 30.000
+
+UICorner_21.Parent = Wallbang_9
+
+UIListLayout_5.Parent = Buttons_5
+UIListLayout_5.HorizontalAlignment = Enum.HorizontalAlignment.Center
+UIListLayout_5.SortOrder = Enum.SortOrder.LayoutOrder
+UIListLayout_5.VerticalAlignment = Enum.VerticalAlignment.Center
+UIListLayout_5.Padding = UDim.new(0, 30)
+
+-- Scripts:
+
+local function GBYM_fake_script() -- Welcome.LocalScript 
+	local script = Instance.new('LocalScript', Welcome)
+
+	script.Parent.Text = "Welcome to AvianHub, "..game.Players.LocalPlayer.Name.."!"
+end
+coroutine.wrap(GBYM_fake_script)()
+local function WSCTNI_fake_script() -- ESP.LocalScript 
+	local script = Instance.new('LocalScript', ESP)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Home.Visible = false
+		script.Parent.Parent.Parent.Parent.ESP.Position = script.Parent.Parent.Parent.Parent.Home.Position
+		script.Parent.Parent.Parent.Parent.ESP.Visible = true
+	end)
+end
+coroutine.wrap(WSCTNI_fake_script)()
+local function NFUNK_fake_script() -- Aimbot.LocalScript 
+	local script = Instance.new('LocalScript', Aimbot)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Home.Visible = false
+		script.Parent.Parent.Parent.Parent.Aimbot.Position = script.Parent.Parent.Parent.Parent.Home.Position
+		script.Parent.Parent.Parent.Parent.Aimbot.Visible = true
+	end)
+end
+coroutine.wrap(NFUNK_fake_script)()
+local function YRPHU_fake_script() -- Wallbang.LocalScript 
+	local script = Instance.new('LocalScript', Wallbang)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Home.Visible = false
+		script.Parent.Parent.Parent.Parent.Wallbang.Position = script.Parent.Parent.Parent.Parent.Home.Position
+		script.Parent.Parent.Parent.Parent.Wallbang.Visible = true
+	end)
+end
+coroutine.wrap(YRPHU_fake_script)()
+local function PQVLK_fake_script() -- Player.LocalScript 
+	local script = Instance.new('LocalScript', Player)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Home.Visible = false
+		script.Parent.Parent.Parent.Parent.Player.Position = script.Parent.Parent.Parent.Parent.Home.Position
+		script.Parent.Parent.Parent.Parent.Player.Visible = true
+	end)
+end
+coroutine.wrap(PQVLK_fake_script)()
+local function WNODM_fake_script() -- SilentAim.LocalScript 
+	local script = Instance.new('LocalScript', SilentAim)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Home.Visible = false
+		script.Parent.Parent.Parent.Parent.SilentAim.Position = script.Parent.Parent.Parent.Parent.Home.Position
+		script.Parent.Parent.Parent.Parent.SilentAim.Visible = true
+	end)
+end
+coroutine.wrap(WNODM_fake_script)()
+local function KZASBKU_fake_script() -- Home.LocalScript 
+	local script = Instance.new('LocalScript', Home)
+
+	local UserInputService = game:GetService("UserInputService")
+	
+	local gui = script.Parent
+	
+	local dragging
+	local dragInput
+	local dragStart
+	local startPos
+	
+	local function update(input)
+		local delta = input.Position - dragStart
+		gui.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+	end
+	
+	gui.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			dragStart = input.Position
+			startPos = gui.Position
+	
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+	
+	gui.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+		if input == dragInput and dragging then
+			update(input)
+		end
+	end)
+	
+end
+coroutine.wrap(KZASBKU_fake_script)()
+local function KQORF_fake_script() -- Aimbot_2.LocalScript 
+	local script = Instance.new('LocalScript', Aimbot_2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.ESP.Visible = false
+		script.Parent.Parent.Parent.Parent.Aimbot.Position = script.Parent.Parent.Parent.Parent.ESP.Position
+		script.Parent.Parent.Parent.Parent.Aimbot.Visible = true
+	end)
+end
+coroutine.wrap(KQORF_fake_script)()
+local function AJQHOI_fake_script() -- Wallbang_2.LocalScript 
+	local script = Instance.new('LocalScript', Wallbang_2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.ESP.Visible = false
+		script.Parent.Parent.Parent.Parent.Wallbang.Position = script.Parent.Parent.Parent.Parent.ESP.Position
+		script.Parent.Parent.Parent.Parent.Wallbang.Visible = true
+	end)
+end
+coroutine.wrap(AJQHOI_fake_script)()
+local function SDTMW_fake_script() -- Player_2.LocalScript 
+	local script = Instance.new('LocalScript', Player_2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.ESP.Visible = false
+		script.Parent.Parent.Parent.Parent.Player.Position = script.Parent.Parent.Parent.Parent.ESP.Position
+		script.Parent.Parent.Parent.Parent.Player.Visible = true
+	end)
+end
+coroutine.wrap(SDTMW_fake_script)()
+local function WLGDH_fake_script() -- SilentAim_2.LocalScript 
+	local script = Instance.new('LocalScript', SilentAim_2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.ESP.Visible = false
+		script.Parent.Parent.Parent.Parent.SilentAim.Position = script.Parent.Parent.Parent.Parent.ESP.Position
+		script.Parent.Parent.Parent.Parent.SilentAim.Visible = true
+	end)
+end
+coroutine.wrap(WLGDH_fake_script)()
+local function AQYM_fake_script() -- LineESP.LineESPScript 
+	local script = Instance.new('LocalScript', LineESP)
+
+	local on = false
+	local camera = game:GetService("Workspace").CurrentCamera	
+	local plr = game.Players.LocalPlayer
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		on = not on
+		if on then
+			script.Parent.Text = "Line ESP: on"
+		else
+			script.Parent.Text = "Line ESP: off"
+		end
+		
+		local camera = game:GetService("Workspace").CurrentCamera
+		local plr = game.Players.LocalPlayer
+	
+		for i,v in pairs(game.Players:GetPlayers()) do
+			local line = Drawing.new("Line")
+			line.Visible = false
+			line.Thickness = 1
+			line.Transparency = 1
+	
+			function lineesp()
+				game:GetService("RunService").RenderStepped:Connect(function()
+					if v.Character and v.Character:FindFirstChild("Humanoid") and v.Character:FindFirstChild("HumanoidRootPart") and v.Character.Humanoid.Health > 0 and v ~= plr and on then
+						local vector,onscreen = camera:WorldToViewportPoint(v.Character.HumanoidRootPart.Position)
+						if v.TeamColor == plr.TeamColor then
+							line.Color = Color3.new(0,0,255)
+						else
+							line.Color = Color3.new(255,0,0)
+						end
+						if onscreen then
+							line.From = Vector2.new(camera.ViewportSize.X / 2,camera.ViewportSize.Y / 2)
+							line.To = Vector2.new(vector.X,vector.Y)
+							line.Visible = true
+						else
+							line.Visible = false
+						end
+					else
+						line.Visible = false
+					end
+				end)
+			end
+			coroutine.wrap(lineesp)()
+		end
+	
+		game.Players.PlayerAdded:Connect(function(v)
+			local line = Drawing.new("Line")
+			line.Visible = false
+			line.Color = Color3.new(255,0,0)
+			line.Thickness = 1
+			line.Transparency = 1
+	
+			function lineesp()
+				game:GetService("RunService").RenderStepped:Connect(function()
+					if v.Character and v.Character:FindFirstChild("Humanoid") and v.Character:FindFirstChild("HumanoidRootPart") and v.Character.Humanoid.Health > 0 and v ~= plr then
+						local vector,onscreen = camera:WorldToViewportPoint(v.Character.HumanoidRootPart.Position)
+						if v.TeamColor == plr.TeamColor then
+							line.Color = Color3.new(0,0,255)
+						else
+							line.Color = Color3.new(255,0,0)
+						end
+						if onscreen then
+							line.From = Vector2.new(camera.ViewportSize.X / 2,camera.ViewportSize.Y / 2)
+							line.To = Vector2.new(vector.X,vector.Y)
+							line.Visible = true
+						else
+							line.Visible = false
+						end
+					else
+						line.Visible = false
+					end
+				end)
+			end
+			coroutine.wrap(lineesp)()
+		end)
+	end)
+end
+coroutine.wrap(AQYM_fake_script)()
+local function CHVNI_fake_script() -- BoxESP.BoxESPScript 
+	local script = Instance.new('LocalScript', BoxESP)
+
+	local on = false
+	
+	local plr = game.Players.LocalPlayer
+	local camera = game:GetService("Workspace").CurrentCamera
+	local CurrentCamera = workspace.CurrentCamera
+	local worldToViewportPoint = CurrentCamera.WorldToViewportPoint
+	
+	local headoff = Vector3.new(0,0.5,0)
+	local legoff = Vector3.new(0,3,0)
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		on = not on
+		
+		if on then
+			script.Parent.Text = "Box ESP: on"
+		else
+			script.Parent.Text = "Box ESP: off"
+		end
+		
+		for i,v in pairs(game.Players:GetPlayers()) do
+			local boxoutline = Drawing.new("Square")
+			boxoutline.Visible = false
+			boxoutline.Color = Color3.new(0,0,0)
+			boxoutline.Thickness = 3
+			boxoutline.Transparency = 1
+			boxoutline.Filled = false
+	
+			local box = Drawing.new("Square")
+			box.Visible = false
+			box.Color = Color3.new(1,1,1)
+			box.Thickness = 1
+			box.Transparency = 1
+			box.Filled = false
+	
+			function boxesp()
+				game:GetService("RunService").RenderStepped:Connect(function()
+					if v.Character ~= nil and v.Character:FindFirstChild("Humanoid") and v.Character:FindFirstChild("HumanoidRootPart") and v ~= plr and v.Character.Humanoid.Health > 0 and on == true then
+						local vector,onscreen = camera:WorldToViewportPoint(v.Character.HumanoidRootPart.Position)
+	
+						local rootpart = v.Character.HumanoidRootPart
+						local head = v.Character.Head
+						local rootposition, rootvis = worldToViewportPoint(CurrentCamera,rootpart.Position)
+						local headposition = worldToViewportPoint(CurrentCamera,head.Position)
+						local legposition = worldToViewportPoint(CurrentCamera, rootpart.Position - legoff)
+	
+						if onscreen then
+							boxoutline.Size = Vector2.new(1000 / rootposition.Z, headposition.Y - legposition.Y)
+							boxoutline.Position = Vector2.new(rootposition.X - boxoutline.Size.X / 2, rootposition.Y - boxoutline.Size.Y / 2)
+							boxoutline.Visible = true
+	
+							box.Size = Vector2.new(1000 / rootposition.Z, headposition.Y - legposition.Y)
+							box.Position = Vector2.new(rootposition.X - box.Size.X / 2, rootposition.Y - box.Size.Y / 2)
+							box.Visible = true
+							if v.TeamColor == plr.TeamColor then
+								box.Color = Color3.new(0,0,255)
+							else
+								box.Color = Color3.new(255,0,0)
+							end
+						else
+							boxoutline.Visible = false
+							box.Visible = false
+						end
+					else
+						boxoutline.Visible = false
+						box.Visible = false
+					end
+				end)
+			end
+			coroutine.wrap(boxesp)()
+		end
+	
+		game.Players.PlayerAdded:Connect(function(v)
+			local boxoutline = Drawing.new("Square")
+			boxoutline.Visible = false
+			boxoutline.Color = Color3.new(0,0,0)
+			boxoutline.Thickness = 3
+			boxoutline.Transparency = 1
+			boxoutline.Filled = false
+	
+			local box = Drawing.new("Square")
+			box.Visible = false
+			box.Color = Color3.new(1,1,1)
+			box.Thickness = 1
+			box.Transparency = 1
+			box.Filled = false
+	
+			function boxesp()
+				game:GetService("RunService").RenderStepped:Connect(function()
+					if v.Character ~= nil and v.Character:FindFirstChild("Humanoid") and v.Character:FindFirstChild("HumanoidRootPart") and v ~= plr and v.Character.Humanoid.Health > 0 then
+						local vector,onscreen = camera:WorldToViewportPoint(v.Character.HumanoidRootPart.Position)
+	
+						local rootpart = v.Character.HumanoidRootPart
+						local head = v.Character.Head
+						local rootposition, rootvis = worldToViewportPoint(CurrentCamera,rootpart.Position)
+						local headposition = worldToViewportPoint(CurrentCamera,head.Position)
+						local legposition = worldToViewportPoint(CurrentCamera, rootpart.Position - legoff)
+	
+						if onscreen then
+							boxoutline.Size = Vector2.new(1000 / rootposition.Z, headposition.Y - legposition.Y)
+							boxoutline.Position = Vector2.new(rootposition.X - boxoutline.Size.X / 2, rootposition.Y - boxoutline.Size.Y / 2)
+							boxoutline.Visible = true
+	
+							box.Size = Vector2.new(1000 / rootposition.Z, headposition.Y - legposition.Y)
+							box.Position = Vector2.new(rootposition.X - box.Size.X / 2, rootposition.Y - box.Size.Y / 2)
+							box.Visible = true
+							if v.TeamColor == plr.TeamColor then
+								box.Color = Color3.new(0,0,255)
+							else
+								box.Color = Color3.new(255,0,0)
+							end
+						else
+							boxoutline.Visible = false
+							box.Visible = false
+						end
+					else
+						boxoutline.Visible = false
+						box.Visible = false
+					end
+				end)
+			end
+			coroutine.wrap(boxesp)()
+		end)
+	end)
+end
+coroutine.wrap(CHVNI_fake_script)()
+local function ENFBOQ_fake_script() -- NametagESP.NametagESPScript 
+	local script = Instance.new('LocalScript', NametagESP)
+
+	local plr = game.Players.LocalPlayer
+	local camera = game.Workspace.CurrentCamera
+	local on = false
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		on = not on
+		
+		for i,v in pairs(game.Players:GetPlayers()) do
+			if on then
+				script.Parent.Text = "Nametag ESP: on"
+			else
+				script.Parent.Text = "Nametag ESP: off"
+			end
+			
+			local text = Drawing.new("Text")
+			text.Text = v.Name
+			text.Transparency = 1
+			text.Visible = false
+	
+			function esp()
+				game:GetService("RunService").RenderStepped:Connect(function()
+					if v ~= plr and v.Character ~= nil and v.Character:FindFirstChild("HumanoidRootPart") and v.Character:FindFirstChild("Head") and v.Character:FindFirstChild("Humanoid") and v.Character.Humanoid.Health > 0 and on == true then
+						local vector,onscreen = camera:WorldToViewportPoint(v.Character.Head.Position)
+						if onscreen then
+							text.Position = Vector2.new(vector.X,vector.Y)
+							if v.TeamColor == plr.TeamColor then
+								text.Color = Color3.new(0,0,255)
+								text.Visible = true
+							else
+								text.Color = Color3.new(255,0,0)
+								text.Visible = true
+							end
+						else
+							text.Visible = false
+						end
+					else
+						text.Visible = false
+					end
+				end)
+			end
+			coroutine.wrap(esp)()
+		end
+	
+		game.Players.PlayerAdded:Connect(function(v)
+			local text = Drawing.new("Text")
+			text.Text = v.Name
+			text.Transparency = 1
+			text.Visible = false
+	
+			function esp()
+				game:GetService("RunService").RenderStepped:Connect(function()
+					if v ~= plr and v.Character ~= nil and v.Character:FindFirstChild("HumanoidRootPart") and v.Character:FindFirstChild("Head") and v.Character:FindFirstChild("Humanoid") and v.Character.Humanoid.Health > 0 then
+						local vector,onscreen = camera:WorldToViewportPoint(v.Character.Head.Position)
+						if onscreen then
+							text.Position = Vector2.new(vector.X,vector.Y)
+							if v.TeamColor == plr.TeamColor then
+								text.Color = Color3.new(0,0,255)
+								text.Visible = true
+							else
+								text.Color = Color3.new(255,0,0)
+								text.Visible = true
+							end
+						else
+							text.Visible = false
+						end
+					else
+						text.Visible = false
+					end
+				end)
+			end
+			coroutine.wrap(esp)()
+		end)
+	end)
+end
+coroutine.wrap(ENFBOQ_fake_script)()
+local function WJRRLV_fake_script() -- ESP_2.LocalScript 
+	local script = Instance.new('LocalScript', ESP_2)
+
+	local UserInputService = game:GetService("UserInputService")
+	
+	local gui = script.Parent
+	
+	local dragging
+	local dragInput
+	local dragStart
+	local startPos
+	
+	local function update(input)
+		local delta = input.Position - dragStart
+		gui.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+	end
+	
+	gui.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			dragStart = input.Position
+			startPos = gui.Position
+	
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+	
+	gui.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+		if input == dragInput and dragging then
+			update(input)
+		end
+	end)
+	
+end
+coroutine.wrap(WJRRLV_fake_script)()
+local function MTRWCFS_fake_script() -- ESP_4.LocalScript 
+	local script = Instance.new('LocalScript', ESP_4)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Aimbot.Visible = false
+		script.Parent.Parent.Parent.Parent.ESP.Position = script.Parent.Parent.Parent.Parent.Aimbot.Position
+		script.Parent.Parent.Parent.Parent.ESP.Visible = true
+	end)
+end
+coroutine.wrap(MTRWCFS_fake_script)()
+local function LBKJI_fake_script() -- Wallbang_3.LocalScript 
+	local script = Instance.new('LocalScript', Wallbang_3)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Aimbot.Visible = false
+		script.Parent.Parent.Parent.Parent.Wallbang.Position = script.Parent.Parent.Parent.Parent.Aimbot.Position
+		script.Parent.Parent.Parent.Parent.Wallbang.Visible = true
+	end)
+end
+coroutine.wrap(LBKJI_fake_script)()
+local function FARCD_fake_script() -- Player_3.LocalScript 
+	local script = Instance.new('LocalScript', Player_3)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Aimbot.Visible = false
+		script.Parent.Parent.Parent.Parent.Player.Position = script.Parent.Parent.Parent.Parent.Aimbot.Position
+		script.Parent.Parent.Parent.Parent.Player.Visible = true
+	end)
+end
+coroutine.wrap(FARCD_fake_script)()
+local function DAQGP_fake_script() -- SilentAim_3.LocalScript 
+	local script = Instance.new('LocalScript', SilentAim_3)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Aimbot.Visible = false
+		script.Parent.Parent.Parent.Parent.SilentAim.Position = script.Parent.Parent.Parent.Parent.Aimbot.Position
+		script.Parent.Parent.Parent.Parent.SilentAim.Visible = true
+	end)
+end
+coroutine.wrap(DAQGP_fake_script)()
+local function FEAW_fake_script() -- Buttons_2.LocalScript 
+	local script = Instance.new('LocalScript', Buttons_2)
+
+	local on = false
+	local plr = game.Players.LocalPlayer
+	local camera = game.Workspace.CurrentCamera
+	
+	script.Parent.Aimbot.MouseButton1Click:Connect(function()
+		on = not on
+		if on then
+			script.Parent.Aimbot.Text = "Aimbot: on"
+		else
+			script.Parent.Aimbot.Text = "Aimbot: off"
+		end
+	end)
+	
+	function getPlr()
+		local target = nil
+		local maxdist = 2000
+	
+		for i,v in pairs(game.Players:GetPlayers()) do
+			if v.Character and v.Character:FindFirstChild("Head") and v.TeamColor ~= plr.TeamColor and v ~= plr then
+				local mag = (v.Character.Head.Position - plr.Character.Head.Position).magnitude
+				if mag < maxdist then
+					maxdist = mag
+					target = v
+				end
+			end
+		end
+		return target
+	end
+	
+	game:GetService("RunService").RenderStepped:Connect(function()
+		if on then
+			camera.CFrame = CFrame.new(camera.CFrame.Position,getPlr().Character.Head.Position)
+		end
+	end)
+end
+coroutine.wrap(FEAW_fake_script)()
+local function RHKXJUM_fake_script() -- Aimbot_3.LocalScript 
+	local script = Instance.new('LocalScript', Aimbot_3)
+
+	local UserInputService = game:GetService("UserInputService")
+	
+	local gui = script.Parent
+	
+	local dragging
+	local dragInput
+	local dragStart
+	local startPos
+	
+	local function update(input)
+		local delta = input.Position - dragStart
+		gui.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+	end
+	
+	gui.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			dragStart = input.Position
+			startPos = gui.Position
+	
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+	
+	gui.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+		if input == dragInput and dragging then
+			update(input)
+		end
+	end)
+	
+end
+coroutine.wrap(RHKXJUM_fake_script)()
+local function SXTZD_fake_script() -- ESP_5.LocalScript 
+	local script = Instance.new('LocalScript', ESP_5)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Wallbang.Visible = false
+		script.Parent.Parent.Parent.Parent.ESP.Position = script.Parent.Parent.Parent.Parent.Wallbang.Position
+		script.Parent.Parent.Parent.Parent.ESP.Visible = true
+	end)
+end
+coroutine.wrap(SXTZD_fake_script)()
+local function GUGDRE_fake_script() -- Aimbot_6.LocalScript 
+	local script = Instance.new('LocalScript', Aimbot_6)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Wallbang.Visible = false
+		script.Parent.Parent.Parent.Parent.Aimbot.Position = script.Parent.Parent.Parent.Parent.Wallbang.Position
+		script.Parent.Parent.Parent.Parent.Aimbot.Visible = true
+	end)
+end
+coroutine.wrap(GUGDRE_fake_script)()
+local function JSBNBXX_fake_script() -- Player_4.LocalScript 
+	local script = Instance.new('LocalScript', Player_4)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Wallbang.Visible = false
+		script.Parent.Parent.Parent.Parent.Player.Position = script.Parent.Parent.Parent.Parent.Wallbang.Position
+		script.Parent.Parent.Parent.Parent.Player.Visible = true
+	end)
+end
+coroutine.wrap(JSBNBXX_fake_script)()
+local function YZNMX_fake_script() -- SilentAim_4.LocalScript 
+	local script = Instance.new('LocalScript', SilentAim_4)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Wallbang.Visible = false
+		script.Parent.Parent.Parent.Parent.SilentAim.Position = script.Parent.Parent.Parent.Parent.Wallbang.Position
+		script.Parent.Parent.Parent.Parent.SilentAim.Visible = true
+	end)
+end
+coroutine.wrap(YZNMX_fake_script)()
+local function WEKYUJO_fake_script() -- Wallbang_6.BoxESPScript 
+	local script = Instance.new('LocalScript', Wallbang_6)
+
+	local on = false
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		on = not on
+		if on then
+			script.Parent.Text = "Wallbang: on"
+		else
+			script.Parent.Text = "Wallbang: off"
+		end
+		local MT = getrawmetatable(game)
+		local OldIndex = MT.__index
+		setreadonly(MT, false)
+		MT.__index = newcclosure(function(A, B)
+			if B == "Clips" then
+				if on then
+					return workspace.Map
+				end
+			end
+			return OldIndex(A, B)
+		end)
+	end)
+	
+end
+coroutine.wrap(WEKYUJO_fake_script)()
+local function UEMOTRE_fake_script() -- Wallbang_4.LocalScript 
+	local script = Instance.new('LocalScript', Wallbang_4)
+
+	local UserInputService = game:GetService("UserInputService")
+	
+	local gui = script.Parent
+	
+	local dragging
+	local dragInput
+	local dragStart
+	local startPos
+	
+	local function update(input)
+		local delta = input.Position - dragStart
+		gui.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+	end
+	
+	gui.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			dragStart = input.Position
+			startPos = gui.Position
+	
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+	
+	gui.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+		if input == dragInput and dragging then
+			update(input)
+		end
+	end)
+	
+end
+coroutine.wrap(UEMOTRE_fake_script)()
+local function IQDJOY_fake_script() -- ESP_6.LocalScript 
+	local script = Instance.new('LocalScript', ESP_6)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Player.Visible = false
+		script.Parent.Parent.Parent.Parent.ESP.Position = script.Parent.Parent.Parent.Parent.Player.Position
+		script.Parent.Parent.Parent.Parent.ESP.Visible = true
+	end)
+end
+coroutine.wrap(IQDJOY_fake_script)()
+local function PXYBUD_fake_script() -- Aimbot_7.LocalScript 
+	local script = Instance.new('LocalScript', Aimbot_7)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Player.Visible = false
+		script.Parent.Parent.Parent.Parent.Aimbot.Position = script.Parent.Parent.Parent.Parent.Player.Position
+		script.Parent.Parent.Parent.Parent.Aimbot.Visible = true
+	end)
+end
+coroutine.wrap(PXYBUD_fake_script)()
+local function TKFEJB_fake_script() -- Wallbang_7.LocalScript 
+	local script = Instance.new('LocalScript', Wallbang_7)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Player.Visible = false
+		script.Parent.Parent.Parent.Parent.Wallbang.Position = script.Parent.Parent.Parent.Parent.Player.Position
+		script.Parent.Parent.Parent.Parent.Wallbang.Visible = true
+	end)
+end
+coroutine.wrap(TKFEJB_fake_script)()
+local function VDCM_fake_script() -- SilentAim_5.LocalScript 
+	local script = Instance.new('LocalScript', SilentAim_5)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.Player.Visible = false
+		script.Parent.Parent.Parent.Parent.SilentAim.Position = script.Parent.Parent.Parent.Parent.Player.Position
+		script.Parent.Parent.Parent.Parent.SilentAim.Visible = true
+	end)
+end
+coroutine.wrap(VDCM_fake_script)()
+local function CDUSZH_fake_script() -- TextBox.LocalScript 
+	local script = Instance.new('LocalScript', TextBox)
+
+	script.Parent.FocusLost:Connect(function()
+		local plr = game.Players.LocalPlayer
+		local char = plr.Character
+		char.Humanoid.UseJumpPower = true
+		
+		if tonumber(script.Parent.Text) and char:FindFirstChild("Humanoid") then
+			game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid"):GetPropertyChangedSignal("WalkSpeed"):Connect(function()
+				setpropvalue(game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid"), "WalkSpeed", tonumber(script.Parent.Text))
+			end)
+		end
+	end)
+end
+coroutine.wrap(CDUSZH_fake_script)()
+local function EBKTCMQ_fake_script() -- TextBox_2.LocalScript 
+	local script = Instance.new('LocalScript', TextBox_2)
+
+	game.Players.LocalPlayer.Character.Humanoid.UseJumpPower = true
+	
+	script.Parent.FocusLost:Connect(function()
+		local plr = game.Players.LocalPlayer
+		local char = plr.Character
+		
+		if tonumber(script.Parent.Text) and char:FindFirstChild("Humanoid") then
+			game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid"):GetPropertyChangedSignal("JumpPower"):Connect(function()
+				setpropvalue(game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid"), "JumpPower", tonumber(script.Parent.Text))
+			end)
+		end
+	end)
+	
+end
+coroutine.wrap(EBKTCMQ_fake_script)()
+local function RBBGFZ_fake_script() -- TextBox_3.LocalScript 
+	local script = Instance.new('LocalScript', TextBox_3)
+
+	local fov = nil
+	local triedtochange = false
+	
+	script.Parent.FocusLost:Connect(function()
+		triedtochange = true
+		if tonumber(script.Parent.Text) then
+			if tonumber(script.Parent.Text) >= 70 or tonumber(script.Parent.Text) <= 120 then
+				fov = tonumber(script.Parent.Text)
+				game.Workspace.CurrentCamera.FieldOfView = fov
+			end
+		end
+	end)
+	
+	game.Workspace.CurrentCamera:GetPropertyChangedSignal("FieldOfView"):Connect(function()
+		if triedtochange == true then
+			game.Workspace.CurrentCamera.FieldOfView = fov 
+		end
+	end)
+end
+coroutine.wrap(RBBGFZ_fake_script)()
+local function ZSPS_fake_script() -- Player_5.LocalScript 
+	local script = Instance.new('LocalScript', Player_5)
+
+	local UserInputService = game:GetService("UserInputService")
+	
+	local gui = script.Parent
+	
+	local dragging
+	local dragInput
+	local dragStart
+	local startPos
+	
+	local function update(input)
+		local delta = input.Position - dragStart
+		gui.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+	end
+	
+	gui.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			dragStart = input.Position
+			startPos = gui.Position
+	
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+	
+	gui.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+		if input == dragInput and dragging then
+			update(input)
+		end
+	end)
+	
+end
+coroutine.wrap(ZSPS_fake_script)()
+local function UDIE_fake_script() -- ESP_7.LocalScript 
+	local script = Instance.new('LocalScript', ESP_7)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.SilentAim.Visible = false
+		script.Parent.Parent.Parent.Parent.ESP.Position = script.Parent.Parent.Parent.Parent.SilentAim.Position
+		script.Parent.Parent.Parent.Parent.ESP.Visible = true
+	end)
+end
+coroutine.wrap(UDIE_fake_script)()
+local function FCZKMC_fake_script() -- Aimbot_8.LocalScript 
+	local script = Instance.new('LocalScript', Aimbot_8)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.SilentAim.Visible = false
+		script.Parent.Parent.Parent.Parent.Aimbot.Position = script.Parent.Parent.Parent.Parent.SilentAim.Position
+		script.Parent.Parent.Parent.Parent.Aimbot.Visible = true
+	end)
+end
+coroutine.wrap(FCZKMC_fake_script)()
+local function CVLZ_fake_script() -- Wallbang_8.LocalScript 
+	local script = Instance.new('LocalScript', Wallbang_8)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.SilentAim.Visible = false
+		script.Parent.Parent.Parent.Parent.Wallbang.Position = script.Parent.Parent.Parent.Parent.SilentAim.Position
+		script.Parent.Parent.Parent.Parent.Wallbang.Visible = true
+	end)
+end
+coroutine.wrap(CVLZ_fake_script)()
+local function HVRMSU_fake_script() -- Player_7.LocalScript 
+	local script = Instance.new('LocalScript', Player_7)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		script.Parent.Parent.Parent.Parent.SilentAim.Visible = false
+		script.Parent.Parent.Parent.Parent.Player.Position = script.Parent.Parent.Parent.Parent.SilentAim.Position
+		script.Parent.Parent.Parent.Parent.Player.Visible = true
+	end)
+end
+coroutine.wrap(HVRMSU_fake_script)()
+local function JRRMS_fake_script() -- Wallbang_9.BoxESPScript 
+	local script = Instance.new('LocalScript', Wallbang_9)
+
+	local on = false
+	local plrs = game:GetService("Players")
+	local plr = plrs.LocalPlayer
+	local mouse = plr:GetMouse()
+	local camera = game.Workspace.CurrentCamera
+	
+	function closest()
+		local dist = math.huge
+		local target = nil
+		for i,v in pairs(plrs:GetPlayers()) do
+			if v ~= plr and v.Character and v.Character:FindFirstChild("Head") and v.TeamColor ~= plr.TeamColor then
+				local vector = camera:WorldToScreenPoint(v.Character.Head.Position)
+				local mag = (Vector2.new(mouse.X,mouse.Y) - Vector2.new(vector.X,vector.Y)).magnitude
+	
+				if mag < dist then
+					dist = mag
+					target = v
+				end
+			end
+		end
+		return target
+	end
+	
+	script.Parent.MouseButton1Click:Connect(function()
+		on = not on
+		if on then
+			script.Parent.Text = "Silent Aim: on"
+		else
+			script.Parent.Text = "Silent Aim: off"
+		end
+		local mt = getrawmetatable(game)
+		setreadonly(mt,false)
+		local namecall = mt.__namecall
+	
+		mt.__namecall = function(self,...)
+			local args = {...}
+			local method = getnamecallmethod()
+			if tostring(self) == "HitPart" and tostring(method) == "FireServer" then
+				if on then
+					args[1] = closest().Character.Head
+					args[2] = closest().Character.Head.Position
+					return self.FireServer(self,unpack(args))
+				end
+			end
+			return namecall(self,...)
+		end
+	end)
+	
+end
+coroutine.wrap(JRRMS_fake_script)()
+local function OBBCG_fake_script() -- SilentAim_6.LocalScript 
+	local script = Instance.new('LocalScript', SilentAim_6)
+
+	local UserInputService = game:GetService("UserInputService")
+	
+	local gui = script.Parent
+	
+	local dragging
+	local dragInput
+	local dragStart
+	local startPos
+	
+	local function update(input)
+		local delta = input.Position - dragStart
+		gui.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+	end
+	
+	gui.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			dragging = true
+			dragStart = input.Position
+			startPos = gui.Position
+	
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragging = false
+				end
+			end)
+		end
+	end)
+	
+	gui.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+	
+	UserInputService.InputChanged:Connect(function(input)
+		if input == dragInput and dragging then
+			update(input)
+		end
+	end)
+	
+end
+coroutine.wrap(OBBCG_fake_script)()
